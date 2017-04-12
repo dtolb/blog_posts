@@ -169,3 +169,35 @@ deploy_key
 my_project
 ```
 
+### Add everything to git and push
+
+```bash
+git checkout -b update-to-auto-deploy
+git add --all
+git commit -m 'add auto deploy'
+git push
+git pull-request -m 'add auto deploy to gitbook!!!'
+```
+
+### Link Posted in pull request
+
+```
+Preview Changes at:
+http://v2-messaging-update-to-auto-deploy.s3-website-us-east-1.amazonaws.com/
+```
+
+![comment](comment_on_pr.png)
+
+### View Live changes
+
+Click the link and view the live changes
+
+![changes_live.png](changes_live.png)
+
+### Merge changes in master branch
+
+Once you merge everything into master, the travis build will deploy the gitbook site to `gh-pages` branch.
+
+Ensure your github repo is set to use the `gh-pages` branch for github pages and *NOT* `/docs` folder or `master` branch
+
+![pages](github_pages.png)
