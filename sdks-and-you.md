@@ -114,16 +114,16 @@ client.calls.hangup(callId)
   * Java -> POJO
   * Python -> Named Params
   * PHP ??????
- 
+
 ```csharp
 var list = await Call.List(new Dictionary<string, object>{
   {"from", "+19195551212"},
-  {"to", "+123"}, 
+  {"to", "+123"},
   {"text":"123"}
 });
 ```
 
-```
+```csharp
 var message = await client.Message.SendAsync(new MessageData {
 	From = "+12345678901", // This must be a Bandwidth number on your account
 	To   = "+12345678902",
@@ -162,37 +162,37 @@ message = api.message.send({
   "text" : "hello world"
   "callback_url": "http://ap.you.com"
  });
- 
+
  ## Snake and Camel mixed up
  print(message["messageId"])
  print(message["callbackUrl"])
- 
+
  ## IDE Support
  message = api.message.send(
   to    = "+123",
   from_ = "+345",
   text  = "Hello world"
-  callback_url = "http://ap.you.com" 
+  callback_url = "http://ap.you.com"
  );
- 
+
  ## Snakes everywhere
  print(message["message_id"])
  print(message["callback_url"])
  ```
- 
+
  ## Developing the SDK
- 
+
  ![Developing](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
- 
+
  ### DON'T START UNTIL INTERFACE IS COMPLETE ###
- 
+
  * You're developing software to use in _OTHER DEVELOPERS_ production environment
  * Shoot for 100% Test coverage
  * Minimize dependencies
  * Do you _really_ need all of [requests](https://www.npmjs.com/package/request)?
  * Iterate often and pre-release when capable
  * Get as much feedback as possible before version 1
- 
+
 ## Documentation
 
 ![Docs](https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif)
