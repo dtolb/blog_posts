@@ -125,7 +125,7 @@ var list = await Call.List(new Dictionary<string, object>{
 
 ```csharp
 var message = await client.Message.SendAsync(new MessageData {
-	From = "+12345678901", // This must be a Bandwidth number on your account
+	From = "+12345678901",
 	To   = "+12345678902",
 	Text = "Hello world."
 });
