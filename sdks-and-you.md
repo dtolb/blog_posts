@@ -180,18 +180,33 @@ message = api.message.send({
  print(message["callback_url"])
  ```
 
- ## Developing the SDK
+## Developing the SDK
 
- ![Developing](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+![Developing](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
- ### DON'T START UNTIL INTERFACE IS COMPLETE ###
+### DON'T START UNTIL INTERFACE IS COMPLETE ###
 
- * You're developing software to use in _OTHER DEVELOPERS_ production environment
- * Shoot for 100% Test coverage
- * Minimize dependencies
- * Do you _really_ need all of [requests](https://www.npmjs.com/package/request)?
- * Iterate often and pre-release when capable
- * Get as much feedback as possible before version 1
+* You're developing software to use in _OTHER DEVELOPERS_ production environment
+* Shoot for 100% Test coverage
+* Minimize dependencies
+* Do you _really_ need all of [requests](https://www.npmjs.com/package/request)?
+* Iterate often and pre-release when capable
+* Get as much feedback as possible before version 1
+* Deploy via common channels
+  * NPM
+  * nuGet
+  * pypi
+  * composer
+  * maven
+  * etc...
+* Use some sort of CI
+  * Jenkins
+  * Travis
+  * CircleCI
+* Make it easy and clear what requirements are
+  * PEP8
+  * Airbnb eslint
+  * etc..
 
 ## Documentation
 
