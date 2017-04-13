@@ -224,50 +224,58 @@ message = api.message.send({
 #### Old
 ```js
 /**
- * Make a phone call
+ * Send text messages
  * @param client Client instance
- * @param item call"s data
+ * @param item message (or list of messages) to send
  * @param callback callback function
  * @example
- * bandwidth.Call.create(client, {from: "", to: ""}, function(err, call){});
+ * bandwidth.Message.create(client, {from: "", to: "", text: ""}, function(err, message){});
+ * bandwidth.Message.create(client, [{from: "", to: "", text: ""}], function(err, statuses){});
  */
-Call.create = function (client, item, callback) {}
+Message.create = function (client, item, callback) {}
 ```
 
 #### New
 ```js
 /**
- * Create a new voice call
- * @param {Object} params Parameters for creating a new call
- * @param {String} params.from A Bandwidth phone number on your account the
- * call should come from (must be in E.164 format, like +19195551212).
- * @param {String} params.to The number to call (must be either an E.164 formated number,
- * like +19195551212, or a valid SIP URI, like sip:someone@somewhere.com).
- * @param {Number} [params.callTimeout] Determine how long should the platform wait for]
- * call answer before timing out in seconds.
- * @param {String} [params.callbackUrl] The full server URL where the call events related to the
- * Call will be sent to.
- * @param {Number} [params.callbackTimeout] Determine how long should the platform wait for
- * callbackUrl's response before timing out in milliseconds.
- * @param {String} [params.callbackHttpMethod] Determine if the callback event should be sent via HTTP GET
- * or HTTP POST. Values are "GET" or "POST" (if not set the default is POST).
- * @param {String} [params.fallbackUrl] The full server URL used to send the callback
- * event if the request to callbackUrl fails.
- * @param {String} [params.bridgeId] The id of the bridge where the call will be added.
- * @param {String} [params.conferenceId] Id of the conference where the call will be added.
- * This property is required if you want to add this call to a conference.
- * @param {String} [params.recordingEnabled] Indicates if the call should be recorded after being created.
- * Set to "true" to enable. Default is "false".
- * @param {String} [params.recordingMaxDuration] Indicates the maximum duration of call recording in seconds.
- * Default value is 1 hour.
- * @param {String} [params.transcriptionEnabled] Whether all the recordings for this call is going to be
- * automatically transcribed.
- * @param {String} [params.tag] A string that will be included in the callback events of the call.
- * @param {Object} [params.sipHeaders] Map of Sip headers prefixed by "X-". Up to 5 headers can be sent per call.
- * @param {Function} [callback] Callback with the newly created call
- * @return {CallResponse} A promise for the newly created call
+ * Send a new SMS or MMS message
+ * @param  {Object} params Parameters for sending a new message.
+ * @param  {String} params.text The message text to send
+ * @param  {String} params.from The message sender"s telephone number (or short code)
+ * This must be a Catapult number that you own
+ * @param  {String} [params.to] Message recipient telephone number (or short code)
+ * @param  {Array} [params.media] Json array containing list of media urls to be sent as content for an mms.
+ * Valid URLs are: https://api.catapult.inetwork.com/v1/users/<user-id>/media/
+ * We also support media URLs that are external to Bandwidth API, http:// or https:// format:
+ * Example: http://customer-web-site.com/file.jpg
+ * @param  {String} [params.callbackUrl] The complete URL where the events related to the
+ * outgoing message will be sent
+ * @param  {Number} [params.callbackTimeout] Determine how long should the platform wait for
+ * callbackUrl"s response before timing out (milliseconds)
+ * @param  {String} [params.fallbackUrl] The server URL used to send message events
+ * if the request to callbackUrl fails
+ * @param  {String} [params.tag] A string that will be included in the callback events of the message
+ * @param  {String} [params.receiptRequested=none] Requested receipt option for outbound messages:
+ * `none` `all` `error`
+ * @param  {Function} [callback] A callback for the new message object
+ * @returns {MessageResponse} A promise for the new message object
+ * @example
+ * client.Message.send({
+ *   from : "+19195551212",
+ *   to   : "+19195551213",
+ *   text : "Thank you for susbcribing to Unicorn Enterprises!"
+ * })
+ * .then(function(message){
+ *   console.log(message);
+ * });
+ * //{
+ * //  from : "+19195551212",
+ * //  to   : "+19195551213",
+ * //  text : "Thank you for susbcribing to Unicorn Enterprises!",
+ * //  id   : "..."
+ * //}
  */
-this.create = function (params, callback) {}
+this.send = function (params, callback) {}
 ```
 
 | Old                                                                                                  | New                                                            |
