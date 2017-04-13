@@ -262,7 +262,7 @@ this.create = function (params, callback) {}
 
 ## Maintaining the SDK
 
-![maintenance](https://media.giphy.com/media/C1JxJhEGs4ks8/giphy.gif)
+![maintenance](https://media.giphy.com/media/1oUXLPtBZMuS4/giphy.gif)
 
 * Unless business needs, only support what language supports.
 	* Python 2.6
@@ -278,7 +278,7 @@ this.create = function (params, callback) {}
 
 ## Community
 
-![https://media.giphy.com/media/zPOErRpLtHWbm/giphy.gif]
+![community](https://media.giphy.com/media/zPOErRpLtHWbm/giphy.gif)
 
 * Respond early and often
 * Solicit feedback
