@@ -41,8 +41,6 @@ $ which md5
 
 Once md5 is insalled, run the command like: `md5 -s {composite-username}:{Realm}:{Password}`:
 
-md5 -s dtolb:cust83.auth.bandwidth.com:password
-
 ###### Generate md5 Hash1
 ```
 $ md5 -s sipauthtest:custxx.auth.bandwidth.com:password
