@@ -13,7 +13,7 @@ This guide walks through the initial setup for Bandwidth's Network Bridge. The n
 ## Steps
 
 1. [Create new SIP credentials](#create-new-sip-credentials)
-2. [Create call via Twilio with new SIP creds](#create-new-sip-credentials)
+2. [Create call via Twilio with new SIP creds](#create-call-using-the-network-bridge)
 
 ## Create new SIP Credentials
 
