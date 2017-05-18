@@ -12,19 +12,19 @@ This guide walks through the initial setup for Bandwidth's Network Bridge. The n
 
 ## Steps
 
-1. Create new SIP credentials
-2. Create call via Twilio with new SIP creds
+1. [Create new SIP credentials](#create-new-sip-credentials)
+2. [Create call via Twilio with new SIP creds](#create-new-sip-credentials)
 
 ## Create new SIP Credentials
 
 In order to route the outbound calls through Bandwidth, you will need to create a new set of SIP credentials.
 
-| Value    | Required     | Description                                                                                                                                                                                                                                                                 |
-|:---------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Username | **required** | String identifying the user.                                                                                                                                                                                                                                                |
-| Domain   | _optional_   | String refining the identity of the user. <br> The Domain will be joined to the UserName with an `@` to create a composite username. For example, the UserName `bob` could be combined with the domain `somewhere.com` to create a _composite username_ `bob@somewhere.com` |
-| Hash1    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Password}`.                                                                                               |
-| Hash 1b  | _optional_   | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Domain}:{Password}`. <br> **If the Domain is not specified the Hash1b is not required.**                   |
+| Value      | Required     | Description                                                                                                                                                                                                                                                                 |
+|:-----------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Username` | **required** | String identifying the user.                                                                                                                                                                                                                                                |
+| `Domain`   | _optional_   | String refining the identity of the user. <br> The Domain will be joined to the UserName with an `@` to create a composite username. For example, the UserName `bob` could be combined with the domain `somewhere.com` to create a _composite username_ `bob@somewhere.com` |
+| `Hash1`    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Password}`.                                                                                               |
+| `Hash1b`   | _optional_   | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Domain}:{Password}`. <br> **If the Domain is not specified the Hash1b is not required.**                   |
 
 _The Twilio platform requires a SIPAuthUsername and a SIPAuthPassword. Assuming that your username=sipauthtest and password=password_
 
@@ -110,7 +110,7 @@ curl 'https://api.twilio.com/2010-04-01/Accounts/{AccountId}/Calls.json' -X POST
 
 ```python
 call = client.calls.create(to="sip:+17778889999@custxx.auth.bandwidth.com",
-						   from_="+15553334444",
+                           from_="+15553334444",
                            url="http://requestb.in/zolm8azo",
                            SipAuthUsername="sipauthtest",
                            SipAuthPassword="password")
