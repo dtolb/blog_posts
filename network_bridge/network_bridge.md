@@ -2,6 +2,8 @@
 
 This guide walks through the initial setup for Bandwidth's Network Bridge. The network bridge allows you to use Bandwidth to create phone calls using our network.
 
+---
+
 **YOU MUST CONTACT [BANDWIDTH CUSTOMER SUPPORT](http://support.bandwidth.com) TO GET YOUR SIP DOMAIN AND PORT NUMBER**
 
 ## Pre-reqs
@@ -25,10 +27,11 @@ In order to route the outbound calls through Bandwidth, you will need to create 
 |:-----------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Username` | **required** | String identifying the user.                                                                                                                                                                                                                                                                                    |
 | `Domain`   | _optional_   | **Recommended to leave blank** <br> String refining the identity of the user. <br> The Domain will be joined to the UserName with an `@` to create a composite username. For example, the UserName `bob` could be combined with the domain `somewhere.com` to create a _composite username_ `bob@somewhere.com` |
-| `Hash1`    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Password}`.                                                                                                                                   |
-| `Hash1b`   | **required** | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Domain}:{Password}`. <br> **If the Domain is not specified the Hash1b is not required.**                                                       |
+| `Hash1`    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of: `{composite-username}:{Realm}:{Password}`.                                                                                                                                   |
+| `Hash1b`   | **required** | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Domain}:{Password}`. <br> **If the `{Domain}` is not specified use the `{Realm}` as the `{Domain}`.**                                          |
 
-_The Twilio platform requires a SIPAuthUsername and a SIPAuthPassword. Assuming that your username=sipauthtest and password=password_
+
+_The Twilio platform requires a SIPAuthUsername and a SIPAuthPassword. These examples assume that your username=sipauthtest and password=password_
 
 ### Generate MD5 hash from username and password
 
@@ -49,16 +52,16 @@ $ md5 -s sipauthtest:custxx.auth.bandwidth.com:password
 MD5 ("sipauthtest:custxx.auth.bandwidth.com:password") = fe438bddfc087dda89d29e637f5684ab
 ```
 
-###### Generate md5 Hash1b _without domain_
+###### Generate md5 Hash1b _without_ domain
 ```
 $ md5 -s sipauthtest@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password
 MD5 ("sipauthtest@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password") = 79bb0e55551e14a2f329a282c7cf1456
 ```
 
-###### Generate md5 Hash1b _with domain_
+###### Generate md5 Hash1b _with_ domain
 ```
-$ md5 -s sipauthtest@custxx.auth.bandwidth.com:bob@somewhere.com:password
-MD5 ("sipauthtest@custxx.auth.bandwidth.com:bob@somewhere.com:password") = 5a70dbaa969ac1b6b985e8ee0d4bfe37
+$ md5 -s bob@somewhere.com@custxx.auth.bandwidth.com:somewhere.com:password
+MD5 ("bob@somewhere.com@custxx.auth.bandwidth.com:somewhere.com:password") = 688f98e87931fa759270d54701159e63
 ```
 
 ### Add the newly created hash to the SIP Credentials
