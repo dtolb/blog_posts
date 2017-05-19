@@ -6,6 +6,8 @@ This guide walks through the initial setup for Bandwidth's Network Bridge. The n
 
 **YOU MUST CONTACT [BANDWIDTH CUSTOMER SUPPORT](http://support.bandwidth.com) TO GET YOUR SIP DOMAIN AND PORT NUMBER**
 
+---
+
 ## Pre-reqs
 
 * [Twilio account](http://twilio.com)
@@ -67,7 +69,7 @@ MD5 ("bob@somewhere.com@custxx.auth.bandwidth.com:somewhere.com:password") = 688
 
 ### Add the newly created hash to the SIP Credentials
 
-After generating the hash value, fill in the **Hash 1** value to create the SIP creds.
+After generating the hash value, fill in the **Hash 1** and **Hash 1b** values to create the SIP creds.
 
 #### Using the UI
 
