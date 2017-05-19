@@ -39,6 +39,7 @@ Either using the command line or an [online tool](http://www.miraclesalad.com/we
 
 Most *nix (mac, linux) come with md5 hash built in. Check that md5 is installed by opening up the terminal and typing:
 
+###### Check that md5 is installed
 ```
 $ which md5
 /sbin/md5
