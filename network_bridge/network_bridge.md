@@ -103,7 +103,11 @@ And that's it on the Bandwidth side! Now move over to Twilio
 
 ## Create call using the Network Bridge
 
-To create a call using the network bridge format the `TO` field like `sip:{Desired_to_number}@custxx.auth.bandwidth.com:{Port}` and inclue the values `SipAuthUsername` as the username created above and `SipAuthPassword` as the password used to create the md5 hash.
+To create a call using the network bridge format :
+
+* `TO` field like `sip:{Desired_to_number}@custxx.auth.bandwidth.com:{Port}`
+* `SipAuthUsername` as the username created above like `sipauthtest`
+* `SipAuthPassword` as the password used to create the md5 hash like `password`
 
 ### Examples:
 
