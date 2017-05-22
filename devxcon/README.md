@@ -65,5 +65,36 @@
 
 ![Roman](roman.png)
 
-* Align your product with developers needs
+* **Alignment** Align your product with developers needs
+* **Engagement** - Provide a speedy on-ramp. _Critical to grab their attention right away_
+	* Stripe just lets you play right away _Give them a great first impression_
+* **Programming Languages** - Generate snips for as many languages you can support
+	* SDKs are **critical** to providing a great DX
+	* SDKs **DO NOT REPLACE BAD API DESIGN**
+	* Stripe holds weekly API reviews to prevent agains poor API design
+
+>  SDKs **DO NOT REPLACE BAD API DESIGN**
+
+* **Documentation** - Make it dynamic and personalized
+	* Test key and then when you log-in everything is copypasta to go
+	* Document the API at the source - one main codebase. Code and docs are 1:1.
+
+> The way to a developer's heart is great documentation
+
+![Personalize](personalize.png)
+
+* **Error codes and messages** - Make sense, don't be generic
+	* Advanced error messages, give as much context as possible.
+	* Complete HTTP request logs
+* **Support** - Bake it into your API from the beginning.
+	* Try to respond in hours, not days.
+	* Transparency is paramount - Status pages and honesty about availability
+* **Updates to the API** - Whenever possible, avoid breaking changes.
+	* Lock in the API versions when deverlopers get started.
+	* Security is the only exception.
+* **Think Bigger** - What else can you do to help dev's succeed.
+	* Build products with your own APIs
+	* Think about tooling that can help, if you don't have them, can you build them?
+	* Explore ideas in [RunKit](https://runkit.com/home) notebooks
+
 
