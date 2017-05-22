@@ -32,3 +32,22 @@
 
 > Glitch looks pretty neat, but not super relevant for the conference.
 
+## Making SDKs: the Bespoke, the Hopeful and the Generated
+### Tristan Sokol, Square
+
+![Presenter Picture](Tristan.png)
+
+* Whatever people can pull down from their package manager is what they're going to use/
+* SDK Generation technique - no one likes tooling and maintance around sample apps.
+* **Hope** - Putting out a community request and hoping that people use it :(
+* **Bespoke** - Hard to have super great depth of knowledge in each language. Population explosion if you spread too thin across mutliple languages, bugs, docs, etc..
+
+#### **Generated** - This is how square does it
+* Use some sort of API Specification (swagger, raml, api blueprint) - Tooling is a bit different
+* Each internal service provides a proto file which they use to generate the api spec.
+
+![Stream Flow](flow.png)
+
+* Swagger CodeGen eats a `config.json` file, `api.json`, and `{{templates}}` to make some code
+* [github.com/square/connect-api-specification](https://github.com/square/connect-api-specification)
+* Travis then will grab any updates from the files and config and builds all of the SDKs and then pushes the output.
