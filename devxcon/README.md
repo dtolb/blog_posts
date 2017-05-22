@@ -5,7 +5,7 @@
 * [Reality Check](#reality-check---how-much-influence-so-developers-really-have)
 * [Gloriously Global!](#gloriously-global)
 * [We don't learn alone](#we-dont-learn-alone)
-* [Making SDKs]()
+* [Making SDKs](#making-sdks-the-bespoke-the-hopeful-and-the-generated)
 * [Building for builders]()
 
 ## Introduction
@@ -64,4 +64,6 @@
 ### Romain Huet, Stripe
 
 ![Roman](roman.png)
+
+* Align your product with developers needs
 
