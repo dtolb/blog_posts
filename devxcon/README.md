@@ -7,7 +7,7 @@
 * [We don't learn alone](#we-dont-learn-alone)
 * [Making SDKs](#making-sdks-the-bespoke-the-hopeful-and-the-generated)
 * [Building for builders](#building-for-builders-tips-for-designing-a-great-api-and-supporting-developers)
-* [From Advocacy to Innovation]()
+* [From Advocacy to Innovation](#from-advocacy-to-innovation-how-user-research-can-improve-the-developer-experience)
 
 ## Introduction
 
@@ -103,6 +103,12 @@
 
 ![Amelia](amelia.png)
 
-* 
+* What is care?
+	* developing docs, tutorials, security. Show that you care about the people you're providing too.
+
+##### We like to make care invisible
+
+![invisible care](inviscare.png)
+
 
 
