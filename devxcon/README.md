@@ -9,6 +9,7 @@
 * [Building for builders](#building-for-builders-tips-for-designing-a-great-api-and-supporting-developers)
 * [From Advocacy to Innovation](#from-advocacy-to-innovation-how-user-research-can-improve-the-developer-experience)
 * [Supporting new developers](#supporting-new-developers-and-your-api)
+* [Measuring the Health of your OSS Community](#measuring-the-health-of-your-oss-community)
 
 ## Introduction
 
@@ -130,4 +131,14 @@
 * If you ask _"Why don't they just {blank}"_, then you should probably explain _{blank}_
 * Provide self-help and look at your logs to find out what errors to know where to focus
 
+## Measuring the Health of your OSS Community
+### Jono Bacon
 
+![jono](jono.png)
+
+* Can always measure everything that is _tangible_.
+* But also take a look at the **human** aspect
+	* Happiness
+	* Personal Development
+	* Relationships
+	* Rewarding Experiences
