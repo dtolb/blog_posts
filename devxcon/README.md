@@ -165,8 +165,37 @@
 
 ![Support Quality](support.png)
 
+* Opening up our product roadmap so that any ideas can be adjusted.
+* Engage in real conversation.
+* Keep track of when your customers have releases and be pro-active with support.
+
 ## Docs at Weaveworks: DX from open source to SaaS and beyond
 ### Luke Marsden, Weaveworks
+
+![Luke](luke.png)
+
+* Types of docs
+	* Open source projects
+	* Guides
+		* Step by step
+		* interactive labs with [katacoda](https://www.katacoda.com/)
+	* Marketing site copy
+	* Blog Posts
+
+##### Website Requirements
+
+![web reqs](webreqs.png)
+
+> Their docs solution is very similar to how our dev site is built.
+
+![web solution](websol.png)
+
+* Break down docs to:
+	* Concepts
+	* Tasks
+	* Tutorials
+	* Reference
+
 
 
 ## The seven deadly sins of developer onboarding
