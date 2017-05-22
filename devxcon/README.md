@@ -231,9 +231,41 @@
 
 ![5qs](5qs.png)
 
-
 ## A CEO's perspective on Devx and DevRel ROI
 ### Alex Salazar, Okta
+
+![alex](alex.png)
+
+* How a CEO thinks, 3-D
+	* Revenue Growth
+	* Predictability & Rist
+	* Cost Reduction
+* Developer Relations **is** _marketing_
+	* Developer Experience **is** _the product_
+
+![copy twilio](copytwilio.png)
+
+* Decide on your strategy:
+	* Sell product thru devx: (Twilio, Stripe, Okta)
+	* Extend Core Product: (box, salesforce)
+	* Build Ecosystem: (iOS, Android, Slack)
+* Define your personas:
+	* Who are you targeting?
+		* .net
+		* java
+		* nodejs
+		* etc...
+	* What do they care about?
+		* Different xp for .net windows env rather than small stack nodejs
+	* Where are they?
+		* Senior arcitects _aren't_ going to be at a hackathon
+* Focus on cost efficiency and repeatability
+	* What types of DevRel are effective?
+	* What DevX invests have most impact?
+	* **Do more of what's working**
+	* **Stop doing everything else**
+
+![metrics that matter](metrics.png)
 
 ## So you have a Code of Conduct... now what?
 ### Sarah Sharp, Otter Tech
