@@ -10,9 +10,9 @@
 
 * Devs and IT are majority of the influencers, but the CTI/CIO is majority *Primary Decision* maker.
 
-![Influence Chart](influence.JPG)
+![Influence Chart](influence.png)
 
-![Where are devs chart](devsat.JPG)
+![Where are devs chart](devstat.png)
 
 * [Basho](http://basho.com/) - Provided internal influence where employees helped get `Rev-A` out the door
 * [HashiCorp](https://www.hashicorp.com/) - Started out as Dorm Room. - Docs are a _store front_ for developers
