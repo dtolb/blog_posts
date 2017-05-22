@@ -131,7 +131,7 @@ curl 'https://api.twilio.com/2010-04-01/Accounts/{AccountId}/Calls.json' -X POST
 -u {AccountId}:{AuthToken}
 ```
 
-#### Pyton
+#### Python
 
 ```python
 call = client.calls.create(to="sip:+17778889999@custxx.auth.bandwidth.com:5006",
