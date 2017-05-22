@@ -153,6 +153,18 @@
 ## Building positive developer support experiences
 ### Bear Douglas, Slack
 
+![bear](bear.png)
+
+* There are multiple different inbound paths to support
+* Support Quality Affects
+	* Adoption
+	* Success Rate of integration
+	* Customer Satisfactions (CSAT)
+	* Willingness to promote (NPS)
+	* Retention Over time
+
+![Support Quality](support.png)
+
 ## Docs at Weaveworks: DX from open source to SaaS and beyond
 ### Luke Marsden, Weaveworks
 
