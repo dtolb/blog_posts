@@ -28,7 +28,7 @@
 ## We don't learn alone
 ### Anil Dash, Jenn Schiffer - Fog Creek
 
-* Mostly a product demo for Glitch
+* Mostly a product demo for [Glitch](https://glitch.com/)
 
 > Glitch looks pretty neat, but not super relevant for the conference.
 
