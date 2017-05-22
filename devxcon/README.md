@@ -8,6 +8,7 @@
 * [Making SDKs](#making-sdks-the-bespoke-the-hopeful-and-the-generated)
 * [Building for builders](#building-for-builders-tips-for-designing-a-great-api-and-supporting-developers)
 * [From Advocacy to Innovation](#from-advocacy-to-innovation-how-user-research-can-improve-the-developer-experience)
+* [Supporting new developers](#supporting-new-developers-and-your-api)
 
 ## Introduction
 
@@ -119,4 +120,14 @@
 ##### Design
 
 ![design](designprinc.png)
+
+## Supporting new developers and your API
+### Erin McKean, Wordnik
+
+![erin](erin.png)
+
+* Give new developers all the keys the kingdom as soon as you can.
+* If you ask _"Why don't they just {blank}"_, then you should probably explain _{blank}_
+* Provide self-help and look at your logs to find out what errors to know where to focus
+
 
