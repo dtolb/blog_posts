@@ -116,3 +116,7 @@
 	* Discourages _"stupid questions"_
 	* _"Who is this for?"_
 
+##### Design
+
+![design](designprinc.JPG)
+
