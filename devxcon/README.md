@@ -196,10 +196,30 @@
 	* Tutorials
 	* Reference
 
-
-
 ## The seven deadly sins of developer onboarding
 ### Cristiano Betta, Work Betta
+
+![Cristiano](cristiano.png)
+
+1. **Jargon-y** Don't make me run code to see a demo.
+2. **Unfocused** Get started that leads to a bucket to nothing.
+	* Once sign up, get taken to a blank dashboard.
+3. **Undisciplined**Docs Mistakes
+	* Product is API + Docs
+	* If you don't follow through, you're only delivering what **you** care about. Not what the customer cares about.
+4. **Arrogant** Writing docs that are meant to _fix_ stuff instead of _be_ stuff.
+	* Get started
+	* Guides
+	* Reference
+	* your product will explain it self**
+5. **Scrooge** Don't get ahead of yourself by asking for money first.
+	* Twilio and Nexmo only let you play with your phone number **WE NEED THIS**
+6. **Frustrated** Don't make me captcha... Use the thing to do the verification
+	* Push your problems on the good users
+7. **Short Sighted** Don't dog food your product. And don't write your own SDKs
+	* Your product _needs_ an SDK
+
+> Hanlon's Razor: Never attribute to malice that which is adequately explained by stupidity
 
 ## Developer Influencer: Lessons from a Year in DevRel at Google
 ### Carter Morgan, Google
