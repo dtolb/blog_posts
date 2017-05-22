@@ -28,9 +28,9 @@
 
 * Devs and IT are majority of the influencers, but the CTI/CIO is majority *Primary Decision* maker.
 
-![Influence Chart](influence.png)
+![Influence Chart](pics/influence.png)
 
-![Where are devs chart](devstat.png)
+![Where are devs chart](pics/devstat.png)
 
 * [Basho](http://basho.com/) - Provided internal influence where employees helped get `Rev-A` out the door
 * [HashiCorp](https://www.hashicorp.com/) - Started out as Dorm Room. - Docs are a _store front_ for developers
@@ -53,7 +53,7 @@
 ## Making SDKs: the Bespoke, the Hopeful and the Generated
 ### Tristan Sokol, Square
 
-![Presenter Picture](Tristan.png)
+![Presenter Picture](pics/Tristan.png)
 
 * Whatever people can pull down from their package manager is what they're going to use/
 * SDK Generation technique - no one likes tooling and maintance around sample apps.
@@ -64,7 +64,7 @@
 * Use some sort of API Specification (swagger, raml, api blueprint) - Tooling is a bit different
 * Each internal service provides a proto file which they use to generate the api spec.
 
-![Stream Flow](flow.png)
+![Stream Flow](pics/flow.png)
 
 * Swagger CodeGen eats a `config.json` file, `api.json`, and `{{templates}}` to make some code
 * [github.com/square/connect-api-specification](https://github.com/square/connect-api-specification)
@@ -73,7 +73,7 @@
 ## Building for builders: tips for designing a great API and supporting developers
 ### Romain Huet, Stripe
 
-![Roman](roman.png)
+![Roman](pics/roman.png)
 
 * **Alignment** Align your product with developers needs
 * **Engagement** - Provide a speedy on-ramp. _Critical to grab their attention right away_
@@ -91,7 +91,7 @@
 
 > The way to a developer's heart is great documentation
 
-![Personalize](personalize.png)
+![Personalize](pics/personalize.png)
 
 * **Error codes and messages** - Make sense, don't be generic
 	* Advanced error messages, give as much context as possible.
@@ -110,14 +110,14 @@
 ## From Advocacy to Innovation: How User Research can improve the Developer Experience
 ### Amelia Abreu, Abreu Consulting
 
-![Amelia](amelia.png)
+![Amelia](pics/amelia.png)
 
 * What is care?
 	* developing docs, tutorials, security. Show that you care about the people you're providing too.
 
 ##### We like to make care invisible
 
-![invisible care](inviscare.png)
+![invisible care](pics/inviscare.png)
 
 * Anti-patterns
 	* _"roll your own"_ - solutions
@@ -127,12 +127,12 @@
 
 ##### Design
 
-![design](designprinc.png)
+![design](pics/designprinc.png)
 
 ## Supporting new developers and your API
 ### Erin McKean, Wordnik
 
-![erin](erin.png)
+![erin](pics/erin.png)
 
 * Give new developers all the keys the kingdom as soon as you can.
 * If you ask _"Why don't they just {blank}"_, then you should probably explain _{blank}_
@@ -141,7 +141,7 @@
 ## Measuring the Health of your OSS Community
 ### Jono Bacon
 
-![jono](jono.png)
+![jono](pics/jono.png)
 
 * Can always measure everything that is _tangible_.
 * But also take a look at the **human** aspect
@@ -153,7 +153,7 @@
 ## Building positive developer support experiences
 ### Bear Douglas, Slack
 
-![bear](bear.png)
+![bear](pics/bear.png)
 
 * There are multiple different inbound paths to support
 * Support Quality Affects
@@ -163,7 +163,7 @@
 	* Willingness to promote (NPS)
 	* Retention Over time
 
-![Support Quality](support.png)
+![Support Quality](pics/support.png)
 
 * Opening up our product roadmap so that any ideas can be adjusted.
 * Engage in real conversation.
@@ -172,7 +172,7 @@
 ## Docs at Weaveworks: DX from open source to SaaS and beyond
 ### Luke Marsden, Weaveworks
 
-![Luke](luke.png)
+![Luke](pics/luke.png)
 
 * Types of docs
 	* Open source projects
@@ -184,11 +184,11 @@
 
 ##### Website Requirements
 
-![web reqs](webreqs.png)
+![web reqs](pics/webreqs.png)
 
 > Their docs solution is very similar to how our dev site is built.
 
-![web solution](websol.png)
+![web solution](pics/websol.png)
 
 * Break down docs to:
 	* Concepts
@@ -199,7 +199,7 @@
 ## The seven deadly sins of developer onboarding
 ### Cristiano Betta, Work Betta
 
-![Cristiano](cristiano.png)
+![Cristiano](pics/cristiano.png)
 
 1. **Jargon-y** Don't make me run code to see a demo.
 2. **Unfocused** Get started that leads to a bucket to nothing.
@@ -224,17 +224,17 @@
 ## Developer Influencer: Lessons from a Year in DevRel at Google
 ### Carter Morgan, Google
 
-![Carter](carter.png)
+![Carter](pics/carter.png)
 
 * Product gets released and no one in DevRel knew about it.
 * Ask users what they want!
 
-![5qs](5qs.png)
+![5qs](pics/5qs.png)
 
 ## A CEO's perspective on Devx and DevRel ROI
 ### Alex Salazar, Okta
 
-![alex](alex.png)
+![alex](pics/alex.png)
 
 * How a CEO thinks, 3-D
 	* Revenue Growth
@@ -243,7 +243,7 @@
 * Developer Relations **is** _marketing_
 	* Developer Experience **is** _the product_
 
-![copy twilio](copytwilio.png)
+![copy twilio](pics/copytwilio.png)
 
 * Decide on your strategy:
 	* Sell product thru devx: (Twilio, Stripe, Okta)
@@ -265,7 +265,7 @@
 	* **Do more of what's working**
 	* **Stop doing everything else**
 
-![metrics that matter](metrics.png)
+![metrics that matter](pics/metrics.png)
 
 ## So you have a Code of Conduct... now what?
 ### Sarah Sharp, Otter Tech
