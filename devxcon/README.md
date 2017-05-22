@@ -110,5 +110,9 @@
 
 ![invisible care](inviscare.png)
 
-
+* Anti-patterns
+	* _"roll your own"_ - solutions
+	* No dedicated resources for documentation
+	* Discourages _"stupid questions"_
+	* _"Who is this for?"_
 
