@@ -6,7 +6,8 @@
 * [Gloriously Global!](#gloriously-global)
 * [We don't learn alone](#we-dont-learn-alone)
 * [Making SDKs](#making-sdks-the-bespoke-the-hopeful-and-the-generated)
-* [Building for builders]()
+* [Building for builders](#building-for-builders-tips-for-designing-a-great-api-and-supporting-developers)
+* [From Advocacy to Innovation]()
 
 ## Introduction
 
@@ -96,5 +97,12 @@
 	* Build products with your own APIs
 	* Think about tooling that can help, if you don't have them, can you build them?
 	* Explore ideas in [RunKit](https://runkit.com/home) notebooks
+
+## From Advocacy to Innovation: How User Research can improve the Developer Experience
+### Amelia Abreu, Abreu Consulting
+
+![Amelia](amelia.png)
+
+* 
 
 
