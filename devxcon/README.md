@@ -204,7 +204,7 @@
 1. **Jargon-y** Don't make me run code to see a demo.
 2. **Unfocused** Get started that leads to a bucket to nothing.
 	* Once sign up, get taken to a blank dashboard.
-3. **Undisciplined**Docs Mistakes
+3. **Undisciplined** Docs Mistakes
 	* Product is API + Docs
 	* If you don't follow through, you're only delivering what **you** care about. Not what the customer cares about.
 4. **Arrogant** Writing docs that are meant to _fix_ stuff instead of _be_ stuff.
@@ -223,6 +223,14 @@
 
 ## Developer Influencer: Lessons from a Year in DevRel at Google
 ### Carter Morgan, Google
+
+![Carter](carter.png)
+
+* Product gets released and no one in DevRel knew about it.
+* Ask users what they want!
+
+![5qs](5qs.png)
+
 
 ## A CEO's perspective on Devx and DevRel ROI
 ### Alex Salazar, Okta
