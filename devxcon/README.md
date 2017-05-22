@@ -10,6 +10,13 @@
 * [From Advocacy to Innovation](#from-advocacy-to-innovation-how-user-research-can-improve-the-developer-experience)
 * [Supporting new developers](#supporting-new-developers-and-your-api)
 * [Measuring the Health of your OSS Community](#measuring-the-health-of-your-oss-community)
+* [Building positive developer support experiences](#building-positive-developer-support-experiences)
+* [Docs at Weaveworks](#docs-at-weaveworks-dx-from-open-source-to-saas-and-beyond)
+* [The seven deadly sins of developer onboarding](#the-seven-deadly-sins-of-developer-onboarding)
+* [Developer Influencer](#developer-influencer-lessons-from-a-year-in-devrel-at-google)
+* [A CEO's perspective on Devx and DevRel ROI](#a-ceos-perspective-on-devx-and-devrel-roi)
+* [So you have a Code of Conduct... now what?](#so-you-have-a-code-of-conduct-now-what)
+* [Which Metrics Matter in Developer Relations?](#which-metrics-matter-in-developer-relations)
 
 ## Introduction
 
@@ -142,3 +149,26 @@
 	* Personal Development
 	* Relationships
 	* Rewarding Experiences
+
+## Building positive developer support experiences
+### Bear Douglas, Slack
+
+## Docs at Weaveworks: DX from open source to SaaS and beyond
+### Luke Marsden, Weaveworks
+
+
+## The seven deadly sins of developer onboarding
+### Cristiano Betta, Work Betta
+
+## Developer Influencer: Lessons from a Year in DevRel at Google
+### Carter Morgan, Google
+
+## A CEO's perspective on Devx and DevRel ROI
+### Alex Salazar, Okta
+
+## So you have a Code of Conduct... now what?
+### Sarah Sharp, Otter Tech
+
+## Which Metrics Matter in Developer Relations?
+### Adam FitzGerald, Amazon Web Services
+
