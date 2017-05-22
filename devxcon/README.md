@@ -1,5 +1,13 @@
 # DEV-X-CON 2017
 
+## Summary
+
+* [Reality Check](#reality-check---how-much-influence-so-developers-really-have)
+* [Gloriously Global!](#gloriously-global)
+* [We don't learn alone](#we-dont-learn-alone)
+* [Making SDKs]()
+* [Building for builders]()
+
 ## Introduction
 
 * Nexmo is learning and admitting that they are / were sales focused.
@@ -51,3 +59,9 @@
 * Swagger CodeGen eats a `config.json` file, `api.json`, and `{{templates}}` to make some code
 * [github.com/square/connect-api-specification](https://github.com/square/connect-api-specification)
 * Travis then will grab any updates from the files and config and builds all of the SDKs and then pushes the output.
+
+## Building for builders: tips for designing a great API and supporting developers
+### Romain Huet, Stripe
+
+![Roman](roman.png)
+
