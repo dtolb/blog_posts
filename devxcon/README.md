@@ -118,5 +118,5 @@
 
 ##### Design
 
-![design](designprinc.JPG)
+![design](designprinc.png)
 
