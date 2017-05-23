@@ -277,3 +277,48 @@
 ## Which Metrics Matter in Developer Relations?
 ### Adam FitzGerald, Amazon Web Services
 
+![adam](pics/adam.png)
+
+> If you can't _measure it_, you can't _improve it_.
+
+* Users: DAU/WAU/MAU _(daily active, weekly, monthly)_
+	* Perils of _active users_
+		* Externalities - Don't know the event that caused the uptick
+		* Masking Churn
+		* Wrong Event Source - Make sure that the event set actually makes sense
+
+![DAU](pics/dau.png)
+
+* Love: Github ❤️
+	* Goal typically is to get community to self-service
+
+* Volume: Unique views on a thing
+	* How much does it mean?
+	* How to measure the value of the impression on twitter (etc...)
+
+* What is _your_ unit of measure?
+	* One hour of time: IE 1 hour to 100 people = 100units
+
+* Money: Conversion to Paid
+	* What is your conversion event?
+	* What activity did you do that produced the paying customer.
+		* Natural Search
+		* Paid Search
+		* Webinar
+		* Social Media
+		* Email
+		* Twitch
+
+> What you think it is:
+![Conversion](pics/conversions.png)
+
+> What it actually is:
+![conversion2](pics/conversion2.png)
+
+#### Multi-touch Attribution Model
+
+![multitouch](pics/multitouch.png)
+
+* What metrics matter?
+	* All of them
+
