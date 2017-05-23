@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "getLocal": "node letsGetLocal.js",
-    "newApp": "node newApp.js"
+    "newApp": "node newApp.js",
+    "reminders" : "node reminders.js"
   },
   "author": "",
   "license": "ISC",

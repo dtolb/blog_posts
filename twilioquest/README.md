@@ -22,3 +22,11 @@ Configure ngrok to point to local machine and setup twilio to send SMS webooks t
 [newApp.js](newApp.js)
 
 `npm run newApp`
+
+### Reminders
+
+Using the same configuration as [Auto Respond](#auto-respond)
+
+[reminders.js](reminders.js)
+
+`npm run reminders`

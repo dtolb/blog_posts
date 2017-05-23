@@ -2,11 +2,10 @@ const twilio = require('twilio');
 const commandLineArgs = require('command-line-args');
 const accountSid = process.env.TWILIO_SID;
 const authToken = process.env.TWILIO_TOKEN;
+const TWILIO_NUMBER = process.env.TWILIO_NUMBER;
 const client = new twilio(accountSid, authToken);
 const history = 'Did you know my favorite historical figure, Obi Wan Kenobi, died 40 years ago?';
 const historyPic = 'https://vignette4.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg';
-const TWILIO_NUMBER = process.env.TWILIO_NUMBER;
-
 
 const print = (a) => {
 	console.log(a);
