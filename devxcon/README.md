@@ -270,6 +270,10 @@
 ## So you have a Code of Conduct... now what?
 ### Sarah Sharp, Otter Tech
 
+![sarah](pics/sarah.png)
+
+#### A lot of good information and thoughts to have about Code of Conduct, enforcement, and reporting within a community. Not a ton relevant to Bandwidth
+
 ## Which Metrics Matter in Developer Relations?
 ### Adam FitzGerald, Amazon Web Services
 
