@@ -5,4 +5,9 @@
 * `export TWILIO_TOKEN=dfasdfasdf`
 
 ## Things to run:
-* `npm run getLocal --number +13334445555`
+
+### Send time and picture to numbers on the command line:
+
+[letsGetLocal.js](letsGetLocal.js)
+
+`npm run getLocal --number +13334445555`
