@@ -5,8 +5,6 @@ const authToken = process.env.TWILIO_TOKEN;
 const TWILIO_NUMBER = process.env.TWILIO_NUMBER;
 const TWILIO_CO = process.env.TWILIO_CO;
 const client = new twilio(accountSid, authToken);
-const history = 'Did you know my favorite historical figure, Obi Wan Kenobi, died 40 years ago?';
-const historyPic = 'https://vignette4.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg';
 
 const print = (a) => {
     console.log(a);
@@ -21,7 +19,7 @@ const getNumbers = () => {
 
 const sendMessages = (number) => {
     let messages = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 2; i++) {
         const message = client.messages.create({
             body: getTime(),
             to: number,  // Text this number
@@ -29,7 +27,7 @@ const sendMessages = (number) => {
         });
         messages.push(message);
     }
-    return Promise.all(messages);
+    return messages;
 }
 
 const getTime = () => {
@@ -39,11 +37,17 @@ const getTime = () => {
 };
 
 const main = async () => {
+    const messages = [];
     const numbers = getNumbers();
     for (let number of numbers) {
-        sendMessages(number);
+        const outMessages = sendMessages(number);
+        messages.push.apply(messages, outMessages);
         //await sendHistory(number);
     };
+    myMessages = await Promise.all(messages);
+    for(let myMessage of myMessages) {
+        print(myMessage.sid)
+    }
 };
 
 main();
