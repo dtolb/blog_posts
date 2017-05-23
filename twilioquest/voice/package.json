@@ -1,0 +1,22 @@
+{
+  "name": "twilioquest-voice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calls": "node calls.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "command-line-args": "^4.0.5",
+    "express": "^4.15.3",
+    "node-datetime": "^1.0.0",
+    "twilio": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
