@@ -277,7 +277,7 @@
 ## Which Metrics Matter in Developer Relations?
 ### Adam FitzGerald, Amazon Web Services
 
-![adam](pics/adam.png)
+![adam](pics/adam.JPG)
 
 > If you can't _measure it_, you can't _improve it_.
 
