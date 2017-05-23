@@ -70,3 +70,11 @@ DDoS a phone number
 [coSwarm.js](coSwarm.js)
 
 `npm run swarm --number +13334445555`
+
+### Dashboard
+
+Get a dashboard of SMS usage
+
+[dashboard.js](dashboard.js)
+
+`npm run dashboard`

@@ -13,7 +13,8 @@
     "deleteMessage": "node deleteMessage.js",
     "tollFree": "nodemon tollfreeStatusCallback.js",
     "coPilot": "node coPilot.js",
-    "swarm": "node coSwarm.js"
+    "swarm": "node coSwarm.js",
+    "dashboard": "nodemon dashboard.js"
   },
   "author": "",
   "license": "ISC",
