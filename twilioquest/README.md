@@ -52,3 +52,21 @@ Using the same configuration as [Reminders](#reminders)
 [tollfreeStatusCallback.js](tollfreeStatusCallback.js)
 
 `npm run tollFree`
+
+### Co Pilot
+
+Configure copilot and:
+
+`export TWILIO_CO=asdfas`
+
+[coPilot.js](coPilot.js)
+
+`npm run coPilot --number +13334445555`
+
+### Swarm
+
+DDoS a phone number
+
+[coSwarm.js](coSwarm.js)
+
+`npm run swarm --number +13334445555`

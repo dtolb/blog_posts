@@ -11,7 +11,9 @@
     "reminders": "node reminders.js",
     "statusCallback": "node statusCallback.js",
     "deleteMessage": "node deleteMessage.js",
-    "tollFree": "nodemon tollfreeStatusCallback.js"
+    "tollFree": "nodemon tollfreeStatusCallback.js",
+    "coPilot": "node coPilot.js",
+    "swarm": "node coSwarm.js"
   },
   "author": "",
   "license": "ISC",
