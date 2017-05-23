@@ -5,7 +5,7 @@ const authToken = process.env.TWILIO_TOKEN;
 const client = new twilio(accountSid, authToken);
 const history = 'Did you know my favorite historical figure, Obi Wan Kenobi, died 40 years ago?';
 const historyPic = 'https://vignette4.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg';
-const TWILIO_NUMBER = '+14152148176';
+const TWILIO_NUMBER = process.env.TWILIO_NUMBER;
 
 
 const print = (a) => {

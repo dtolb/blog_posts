@@ -3,6 +3,7 @@
 ## Prereqs:
 * `export TWILIO_SID=ACasdf`
 * `export TWILIO_TOKEN=dfasdfasdf`
+* `export TWILIO_NUMBER=+12223334444`
 
 ## Things to run:
 
