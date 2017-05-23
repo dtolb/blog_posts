@@ -30,3 +30,25 @@ Using the same configuration as [Auto Respond](#auto-respond)
 [reminders.js](reminders.js)
 
 `npm run reminders`
+
+### statusCallback
+
+Using the same configuration as [Reminders](#reminders)
+
+[statusCallback.js](statusCallback.js)
+
+`npm run statusCallback`
+
+### Delete message
+
+`npm run deleteMessage`
+
+### Tollfree texting
+
+**NEED TO ORDER A TOLLFREE NUMBER AND SET CALLBACKURL TO YOUR SERVER**
+
+Using the same configuration as [Reminders](#reminders)
+
+[tollfreeStatusCallback.js](tollfreeStatusCallback.js)
+
+`npm run tollFree`

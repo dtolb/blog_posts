@@ -8,7 +8,10 @@
     "start": "node index.js",
     "getLocal": "node letsGetLocal.js",
     "newApp": "node newApp.js",
-    "reminders" : "node reminders.js"
+    "reminders": "node reminders.js",
+    "statusCallback": "node statusCallback.js",
+    "deleteMessage": "node deleteMessage.js",
+    "tollFree": "nodemon tollfreeStatusCallback.js"
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +21,8 @@
     "express": "^4.15.3",
     "node-datetime": "^1.0.0",
     "twilio": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
