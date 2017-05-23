@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "getLocal": "node letsGetLocal.js"
+    "getLocal": "node letsGetLocal.js",
+    "newApp": "node newApp.js"
   },
   "author": "",
   "license": "ISC",
