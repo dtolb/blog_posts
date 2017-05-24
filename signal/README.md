@@ -223,6 +223,19 @@
 
 ![Anatomy of a phonecall](pics/phoneCallAna.png)
 
+* Pre call solutions -> Conversion is King
+    * Context info
+    * SPAM blocking
+    * Call meta-data
+    * IVR -- Task Router
+
+* Customer Engagement Opps
+* Don't treat _YOUR_ customers like a criminal.
+* Acutal call agents appreciate the reduction in **manual** data entry
+* Associating customer experience with journey maps helps create a better sales.
+
+![What is white pages](pics/whatiswhitepages.png)
+
 [top](#index)
 
 ## Mobilizing Design
