@@ -60,6 +60,7 @@
 ![twilio proxy](pics/proxy.png)
 
 * [twilio.com/proxy](http://twilio.com/proxy) Optimize gets phone number selection
-* Automatic call and text routing _enable for 60 minutes_
+* Automatic call and text routing IE (_enable for 60 minutes_, _only for 9AM-5PM_, etc...)
 * Support multiple channels
-* Optional content filtering
+* Optional content filtering: IE _(filter out phone number, filter out credit cards, no bad language)_
+
