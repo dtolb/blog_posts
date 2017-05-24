@@ -2,6 +2,9 @@
 
 ![signal pic](pics/signal_open.png)
 
+## Index
+* [Day 1 Keynote](#day-1-keynote)
+
 ## Day 1 Keynote
 
 * Today is focusing on the role of APIs in communications, products, and demos.
@@ -37,3 +40,10 @@
 
 * What company and business problem *can't* be an API.
 * APIs are eating the world -> Creativity and Developers are eating the world.
+
+![3 types of engagment](pics/3engagement.png)
+
+* 3 types of engagement
+    * System - talking to other systems
+    * Department - Customer needs to get ahold of a team
+    * Individual - Customer needs to talk to an individual
