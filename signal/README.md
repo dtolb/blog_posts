@@ -68,4 +68,10 @@
 
 * Engagement cloud takes the holistic view that they're accomplishing more than 1 req by 1 req
 * Declarative API vs Imperative API
+
+![Notify](pics/notify.png)
+
 * [Notify](https://www.twilio.com/notify) abstracts away the tech details... Let you focus on _WHO_ to contact and _not_ how to contact
+* Can use Notify to send messages via Alexa
+* Let the developers reach users how they prefer and future proof their API calls.
+* Essentially, use Twilio APIs to go via the channel and you get upgrades etc... for free. Only 1 API service to reach all the others.
