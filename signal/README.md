@@ -169,7 +169,7 @@
 ![Flow Chart](pics/Alexaflowchart.png)
 
 * Composed of a couple Lambda functions, "skill" and "caller"
-
+* Uses [apex.run](http://apex.run/) to deploy and manage the microservice
 
 ## Making useful SMS chatbots
 ### Elizabeth Ferrao
