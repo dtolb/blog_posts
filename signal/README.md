@@ -4,3 +4,17 @@
 
 ## Day 1 Keynote
 
+* Today is focusing on the role of APIs in communications, products, and demos.
+* 28 billion interactions with Twilio and people all around the world.
+* Cover 52-70 Countries over the past year. Up to 100 countries by July _almost double_
+* Over 900 total employees.. Over 400 developers (about half)
+
+![3 things](3things.png)
+
+* 3 Product Priority
+    * Deliver Superior Quality
+    * Give Flexability
+    * Get you to production fast
+
+* Over 11k production deployments
+* On plan to do 30k production deployments
