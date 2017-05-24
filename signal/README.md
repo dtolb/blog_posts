@@ -211,7 +211,17 @@
 [top](#index)
 
 ## Whitepages Pro and Twilio
-### [Jordan Reynolds](http://www.whitepages.com/)
+### [Jordan Reynolds and Alyson Andrews](http://www.whitepages.com/)
+
+![Whitepages](pics/whitePagesPro.png)
+
+* Commerical Opp behind calls
+* How to dev intelligent call flows
+* Eval solutions for entire call lifecycle
+
+> Call Commerice influences over `$1` Trillion in US consumer spending
+
+![Anatomy of a phonecall](pics/phoneCallAna.png)
 
 [top](#index)
 
