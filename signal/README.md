@@ -94,3 +94,5 @@
     * Understanding Engine
     * `TWimL <UnderStand>` verb
 * Can also side load the training you do `Alexa ask twilio jet to book a flight from New York to Boston`
+
+![Twilio will understand](pics/TwilioEverywhere.png)
