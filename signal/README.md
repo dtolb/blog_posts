@@ -19,3 +19,7 @@
 * Over 11k production deployments
 * On plan to do 30k production deployments
 * Ship major new product or feature every ~3 business days
+* API uptime != API success rate. 99.999% of total API success rates
+* Have 1.6 million total developer accounts on Twilio
+* Year-over-year doubling number of new developer signups
+* **ALL** new employees have to create some sort of code
