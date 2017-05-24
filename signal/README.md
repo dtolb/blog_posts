@@ -96,3 +96,19 @@
 * Can also side load the training you do `Alexa ask twilio jet to book a flight from New York to Boston`
 
 ![Twilio will understand](pics/TwilioEverywhere.png)
+
+## Vue(js) from the Back(end)
+### Cassidy Williams
+
+![Cassidy](pics/cassidy.png)
+
+* WHy client-side
+    * Lazy Loading
+    * Same codebase across platforms
+    * No full page reload
+* Why does Vue exist and matter
+    * It's the best parts of react and angluar
+    * _JUST_ javascript
+    * Errors are explicit
+        * Tells you what is wrong
+
