@@ -199,7 +199,7 @@
 ## 2FA in 90 days
 ### [Ian McChord](https://www.datto.com/)
 
-![datto](datto2FA.png)
+![datto](pics/datto2FA.png)
 
 * Out of all their customers surveyed 2FA was the most important thing for security.
 * Authy provided messaging, one touch, and email full 2FA
