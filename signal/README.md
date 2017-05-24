@@ -50,7 +50,7 @@
 
 ![rinse](pics/rinse.png)
 
-* Rinse provides on demand dry cleaning and laundry service
+* [Rinse](https://www.rinse.com/) provides on demand dry cleaning and laundry service
 * SMS is an incredibly clean medium - especially compared to email.
 * **ALL** sms in a continual conversation with the customer and _not_ a one-off point
 * SMS makes it seamless for their customers to get ahold of whomever they need
