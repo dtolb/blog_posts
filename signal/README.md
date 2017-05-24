@@ -88,8 +88,9 @@
 
 * Natural language processing
 * Figure out intent and action
-* Works for **VOICE** and **SMS**
+* Works for **VOICE** and **SMS** and **Alexa**
 * 3 Things
     * Training environment - Teach it how to understand _your_ customers
     * Understanding Engine
     * `TWimL <UnderStand>` verb
+* Can also side load the training you do `Alexa ask twilio jet to book a flight from New York to Boston`
