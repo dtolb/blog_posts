@@ -106,7 +106,7 @@
 ![Twilio will understand](pics/TwilioEverywhere.png)
 
 ## Vue(js) from the Back(end)
-### Cassidy Williams
+### [Cassidy Williams](http://cassidoo.co/)
 
 ![Cassidy](pics/cassidy.png)
 
@@ -120,10 +120,35 @@
     * Errors are explicit
         * Tells you what is wrong
 * Check out the [Vue CLI](https://github.com/vuejs/vue-cli) tutorial
-* 
 
 ## Improving Voice Quality
-### Gagan Mac
+### [Gagan Mac](https://twitter.com/@gaganmac)
+
+![Gagan](pics/gagan.png)
+
+* A lot of this is focusing on SIP calls and Softphones
+* Nature of live calls is that every single second counts
+* Call flows have many many variables: _(network, computer, headset, etc...)_
+* Framework for addressing call quality:
+    * Prevent issues (audio problems)
+    * Patch (in flight fixes): Walk around find a better signal, adjust headset
+    * Promptly diagnose
+    * Constantly monitor
+
+![Twilio](pics/twiliojs.png)
+
+* Use Twilio-JS *front end*
+    * Network alerts
+    * Volume alerts
+    * Network indicators
+
+![Voice insights](pics/voiceInsights.png)
+
+* Voice Insights - let you monitor and analyze quality in realtime
+* Then the whole thing is shoved to a dashboard
+    * Call disconnects
+    * IP addresses
+    * etc...
 
 ## Alexa Skills with Twilio
 ### Jesse Friedman
