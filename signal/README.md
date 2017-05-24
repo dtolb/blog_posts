@@ -105,6 +105,8 @@
 
 ![Twilio will understand](pics/TwilioEverywhere.png)
 
+[top](#index)
+
 ## Vue(js) from the Back(end)
 ### [Cassidy Williams](http://cassidoo.co/)
 
@@ -120,6 +122,8 @@
     * Errors are explicit
         * Tells you what is wrong
 * Check out the [Vue CLI](https://github.com/vuejs/vue-cli) tutorial
+
+[top](#index)
 
 ## Improving Voice Quality
 ### [Gagan Mac](https://twitter.com/@gaganmac)
@@ -157,6 +161,8 @@
     * Who hung up, What were the numbers, networks invovled, users in region affected, etc...
 * Audio Trace allows you to find last mile problems
 
+[top](#index)
+
 ## Alexa Skills with Twilio
 ### [Jesse Friedman](https://jesse.ws/)
 
@@ -174,6 +180,8 @@
 * Implement analytics beforehand!
 * Code the logic in the order users encouters
 
+[top](#index)
+
 ## Making useful SMS chatbots
 ### [Elizabeth Ferrao](https://twitter.com/@MusingMurmurs)
 
@@ -186,14 +194,22 @@
     * Too much work, don't need personality
     * Take iteration and try to focus on making it obvious it's a bot.
 
+[top](#index)
+
 ## 2FA in 90 days
 ### [Ian McChord](https://www.datto.com/)
+
+[top](#index)
 
 ## Whitepages Pro and Twilio
 ### [Jordan Reynolds](http://www.whitepages.com/)
 
+[top](#index)
+
 ## Mobilizing Design
 ### [Dr. Jessica Rothenberg-Aalami](https://twitter.com/@JessicaR_Aalami)
+
+[top](#index)
 
 ## Cracks in the Facade
 ### [Jonathon Kingsley](https://jfkingsley.co.uk/)
