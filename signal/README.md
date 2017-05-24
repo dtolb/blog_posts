@@ -158,7 +158,18 @@
 * Audio Trace allows you to find last mile problems
 
 ## Alexa Skills with Twilio
-### Jesse Friedman
+### [Jesse Friedman](https://jesse.ws/)
+
+![Jess Friedman](pics/jessF.png)
+
+* Primary platform is AWS Lambda/microservices
+* Intent schema: specifies the "intents" a user can deliver to your skill
+    * JSON doc that tells alexa how to do things
+
+![Flow Chart](pics/Alexaflowchart.png)
+
+* Composed of a couple Lambda functions, "skill" and "caller"
+
 
 ## Making useful SMS chatbots
 ### Elizabeth Ferrao
