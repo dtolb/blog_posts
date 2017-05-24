@@ -150,9 +150,12 @@
     * IP addresses
     * etc...
 
-![more insights](voiceInsightsDashboard)
+![more insights](pics/voiceInsightsDashboard)
 
 * After the call is over it shows you the feedback (if given) and lets you find and plug holes.
+* Also works a bit similarlly for Carrier calls as well.
+    * Who hung up, What were the numbers, networks invovled, users in region affected, etc...
+* Audio Trace allows you to find last mile problems
 
 ## Alexa Skills with Twilio
 ### Jesse Friedman
