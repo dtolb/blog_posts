@@ -57,3 +57,9 @@
 * They do have a mobile app and website as well as SMS
     * More than **70%** interact with Rinse with SMS instead of other points
 
+![twilio proxy](pics/proxy.png)
+
+* [twilio.com/proxy](http://twilio.com/proxy) Optimize gets phone number selection
+* Automatic call and text routing _enable for 60 minutes_
+* Support multiple channels
+* Optional content filtering
