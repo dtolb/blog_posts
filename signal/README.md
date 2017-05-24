@@ -21,5 +21,11 @@
 * Ship major new product or feature every ~3 business days
 * API uptime != API success rate. 99.999% of total API success rates
 * Have 1.6 million total developer accounts on Twilio
+    * But they count literally each tiny bit of code as a _developer_
 * Year-over-year doubling number of new developer signups
 * **ALL** new employees have to create some sort of code
+
+![hatch](pics/hatch.png)
+
+* Launching an appreticeship program
+* An idea to take folks from diverse backgrounds to help new developers learning to code in real environment
