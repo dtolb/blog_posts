@@ -68,3 +68,4 @@
 
 * Engagement cloud takes the holistic view that they're accomplishing more than 1 req by 1 req
 * Declarative API vs Imperative API
+* [Notify](https://www.twilio.com/notify) abstracts away the tech details... Let you focus on _WHO_ to contact and _not_ how to contact
