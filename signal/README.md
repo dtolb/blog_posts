@@ -30,3 +30,10 @@
 * Launching an appreticeship program
 * An idea to take folks from diverse backgrounds to help new developers learning to code in real environment
 * Partering with code.org and code2040 to provide schooling to anyone that wants
+
+> Every company is becomng a sofware company
+
+![Every company](pics/everycompany.png)
+
+* What company and business problem *can't* be an API.
+* APIs are eating the world -> Creativity and Developers are eating the world.
