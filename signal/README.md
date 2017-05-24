@@ -206,6 +206,7 @@
 * Google Auth didn't really offer support throughout the process
     * Requires a bit more work to get up and going
 * Keeping 2FA in the cloud just makes sense - rolled out everything employee wide first
+* Using service also helps you avoid stale security as _their_ team is focusing on moving the product forward.
 
 [top](#index)
 
