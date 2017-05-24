@@ -144,13 +144,13 @@
 
 ![Voice insights](pics/voiceInsights.png)
 
-* Voice Insights - let you monitor and analyze quality in realtime
+* [Voice Insights](https://www.twilio.com/voice/insights) - let you monitor and analyze quality in realtime
 * Then the whole thing is shoved to a dashboard
     * Call disconnects
     * IP addresses
     * etc...
 
-![more insights](pics/voiceInsightsDashboard)
+![more insights](pics/voiceInsightsDashboard.png)
 
 * After the call is over it shows you the feedback (if given) and lets you find and plug holes.
 * Also works a bit similarlly for Carrier calls as well.
