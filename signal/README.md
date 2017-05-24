@@ -170,20 +170,23 @@
 
 * Composed of a couple Lambda functions, "skill" and "caller"
 * Uses [apex.run](http://apex.run/) to deploy and manage the microservice
+* Uses [alexa-app](https://www.npmjs.com/package/alexa-app) instead of official repo
+* Implement analytics beforehand!
+* Code the logic in the order users encouters
 
 ## Making useful SMS chatbots
-### Elizabeth Ferrao
+### [Elizabeth Ferrao](https://twitter.com/@MusingMurmurs)
 
 ## 2FA in 90 days
-### Ian McChord
+### [Ian McChord](https://www.datto.com/)
 
 ## Whitepages Pro and Twilio
-### Jordan Reynolds
+### [Jordan Reynolds](http://www.whitepages.com/)
 
 ## Mobilizing Design
-### Dr. Jessica Rothenberg-Aalami
+### [Dr. Jessica Rothenberg-Aalami](https://twitter.com/@JessicaR_Aalami)
 
 ## Cracks in the Facade
-### Jonathon Kingsley
+### [Jonathon Kingsley](https://jfkingsley.co.uk/)
 
 
