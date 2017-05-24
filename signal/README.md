@@ -16,7 +16,6 @@
     * Give Flexability
     * Get you to production fast
 
-
 * Over 11k production deployments
 * On plan to do 30k production deployments
 * Ship major new product or feature every ~3 business days
@@ -30,3 +29,4 @@
 
 * Launching an appreticeship program
 * An idea to take folks from diverse backgrounds to help new developers learning to code in real environment
+* Partering with code.org and code2040 to provide schooling to anyone that wants
