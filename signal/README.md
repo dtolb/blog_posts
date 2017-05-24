@@ -4,6 +4,7 @@
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
+* [VueJS](#vuejs-from-the-backend)
 
 ## Day 1 Keynote
 
@@ -111,4 +112,28 @@
     * _JUST_ javascript
     * Errors are explicit
         * Tells you what is wrong
+* Check out the [Vue CLI](https://github.com/vuejs/vue-cli) tutorial
+* 
+
+## Improving Voice Quality
+### Gagan Mac
+
+## Alexa Skills with Twilio
+### Jesse Friedman
+
+## Making useful SMS chatbots
+### Elizabeth Ferrao
+
+## 2FA in 90 days
+### Ian McChord
+
+## Whitepages Pro and Twilio
+### Jordan Reynolds
+
+## Mobilizing Design
+### Dr. Jessica Rothenberg-Aalami
+
+## Cracks in the Facade
+### Jonathon Kingsley
+
 
