@@ -64,3 +64,7 @@
 * Support multiple channels
 * Optional content filtering: IE _(filter out phone number, filter out credit cards, no bad language)_
 
+![Twilio Engagement Cloud](pics/engagementCloud.png)
+
+* Engagement cloud takes the holistic view that they're accomplishing more than 1 req by 1 req
+* Declarative API vs Imperative API
