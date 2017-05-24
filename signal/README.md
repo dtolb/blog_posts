@@ -150,6 +150,10 @@
     * IP addresses
     * etc...
 
+![more insights](voiceInsightsDashboard)
+
+* After the call is over it shows you the feedback (if given) and lets you find and plug holes.
+
 ## Alexa Skills with Twilio
 ### Jesse Friedman
 
