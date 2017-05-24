@@ -82,6 +82,7 @@
 * 89 Languages and dilects
 * `$0.02` cents per Recognition.
 * Real time
+* Powered by google
 
 ![Twilio Understand](pics/understand.png)
 
