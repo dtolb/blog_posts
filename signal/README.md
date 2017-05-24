@@ -88,6 +88,7 @@
 
 * Natural language processing
 * Figure out intent and action
+* Works for **VOICE** and **SMS**
 * 3 Things
     * Training environment - Teach it how to understand _your_ customers
     * Understanding Engine
