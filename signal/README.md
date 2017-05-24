@@ -179,7 +179,12 @@
 
 ![Elizabeth Ferrao](pics/ElizabethFerrao.png)
 
-
+* Incorporate users' answers into text
+* Catchalls - some generic answers to common terms and fallouts
+* Think about informational chat bots and how they play into the world.
+* We shouldn't make conversational chatbots
+    * Too much work, don't need personality
+    * Take iteration and try to focus on making it obvious it's a bot.
 
 ## 2FA in 90 days
 ### [Ian McChord](https://www.datto.com/)
