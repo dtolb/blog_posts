@@ -236,6 +236,8 @@
 
 ![What is white pages](pics/whatiswhitepages.png)
 
+* Really just a product demo and pitch.
+
 [top](#index)
 
 ## Mobilizing Design
