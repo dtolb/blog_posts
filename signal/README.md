@@ -75,3 +75,19 @@
 * Can use Notify to send messages via Alexa
 * Let the developers reach users how they prefer and future proof their API calls.
 * Essentially, use Twilio APIs to go via the channel and you get upgrades etc... for free. Only 1 API service to reach all the others.
+
+![Speech Recognition](pics/speechrecognition.png)
+
+* Part of the Gather verb
+* 89 Languages and dilects
+* `$0.02` cents per Recognition.
+* Real time
+
+![Twilio Understand](pics/understand.png)
+
+* Natural language processing
+* Figure out intent and action
+* 3 Things
+    * Training environment - Teach it how to understand _your_ customers
+    * Understanding Engine
+    * `TWimL <UnderStand>` verb
