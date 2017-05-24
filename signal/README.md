@@ -177,6 +177,10 @@
 ## Making useful SMS chatbots
 ### [Elizabeth Ferrao](https://twitter.com/@MusingMurmurs)
 
+![Elizabeth Ferrao](pics/ElizabethFerrao.png)
+
+
+
 ## 2FA in 90 days
 ### [Ian McChord](https://www.datto.com/)
 
