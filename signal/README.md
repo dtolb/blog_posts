@@ -5,6 +5,13 @@
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
 * [VueJS](#vuejs-from-the-backend)
+* [Improving Voice Quality](#improving-voice-quality)
+* [Alexa Skills with Twilio](#alexa-skills-with-twilio)
+* [Making useful SMS chatbots](#making-useful-sms-chatbots)
+* [2FA in 90 days](#2fa-in-90-days)
+* [Whitepages Pro and Twilio](#whitepages-pro-and-twilio)
+* [Mobilizing Design](#mobilizing-design)
+* [Cracks in the Facade](#cracks-in-the-facade)
 
 ## Day 1 Keynote
 
