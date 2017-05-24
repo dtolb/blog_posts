@@ -16,6 +16,7 @@
     * Give Flexability
     * Get you to production fast
 
+
 * Over 11k production deployments
 * On plan to do 30k production deployments
 * Ship major new product or feature every ~3 business days
