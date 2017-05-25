@@ -1,7 +1,7 @@
 # Signal 2017
 
 ## Day 1
-* [Day 1 Keynote](day1/readme.md#day-1-keynote)
+* [Day 1 Keynote](day1#day-1-keynote)
 * [VueJS](day1/readme.md#vuejs-from-the-backend)
 * [Improving Voice Quality](day1/readme.md#improving-voice-quality)
 * [Alexa Skills with Twilio](day1/readme.md#alexa-skills-with-twilio)
