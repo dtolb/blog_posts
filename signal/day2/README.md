@@ -18,26 +18,44 @@
 
 * Twilio dedicates 1% of equity to fund twilio.org in the next 10 years
 
+[top](#index)
+
 ## Solving Sudoku in Swift
 ### [Soroush Khanlou](https://twitter.com/@khanlou)
+
+[top](#index)
 
 ## Build and Scale Real-Time Video with Programmable Video
 ### Rob Brazier & Luis Lopez
 
+[top](#index)
+
 ## Chat Bots + IRL Bots: A Perfect Collision
 ### [Suz Hinton](https://twitter.com/@noopkat)
+
+[top](#index)
 
 ## Programmable Voice Meets Custom Vocabulary Speech Analytics
 ### John Bocharov & Vineet Agarwal
 
+[top](#index)
+
 ## Examining the Barriers to Contributing to Open Source
 ### Saron Yitbarek
+
+[top](#index)
 
 ## Improving the Developer Onboarding Experience
 ### Kyle Woumn & Malika Nikhmonova
 
+[top](#index)
+
 ## NESpectre: The Massively Multi-Haunted NES
 ### [Andrew Reitano](https://twitter.com/@batslyadams)
 
+[top](#index)
+
 ## Crowdsourcing Music via WebSockets
 ### [Dan Gorelick](https://twitter.com/@dqgorelick)
+
+[top](#index)
