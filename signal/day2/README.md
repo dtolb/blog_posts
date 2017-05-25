@@ -131,6 +131,15 @@
 
 ![Programmable Vocab](pics/programmableVocab.png)
 
+* Get callbacks when certain triggers happen.
+    * Get what call the trigger happened on.
+    * Twilio addon
+* Voicebase in 60s
+    * Cloud hosted pay-as-you-go speech analytics API
+    * Provide customers to answers to _what_ is in their call
+* Recording in dual channel produces much better results
+* Live credit cards and SSNs are automatically redacted from the recording
+
 [top](#index)
 
 ## Examining the Barriers to Contributing to Open Source
