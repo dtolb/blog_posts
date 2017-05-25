@@ -139,6 +139,13 @@
     * Provide customers to answers to _what_ is in their call
 * Recording in dual channel produces much better results
 * Live credit cards and SSNs are automatically redacted from the recording
+* Get emotional predictors
+
+![Live call analytics](pics/liveCallAnalytics.png)
+
+* Really simple ways to view what you're saying
+    * Don't take over conversation
+    * Don't speak too fastly or too slowly
 
 [top](#index)
 
