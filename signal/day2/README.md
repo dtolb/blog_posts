@@ -150,7 +150,7 @@
 [top](#index)
 
 ## Examining the Barriers to Contributing to Open Source
-### Saron Yitbarek
+### [Saron Yitbarek](http://bloggytoons.com/)
 
 ![Saron Yit](pics/saronYitbarek.png)
 
@@ -167,7 +167,10 @@
 * Internet Deserts -> 11 million people in US don't have access to wired broadband
     * Those that are affected are found in the lowest income areas
     * More than 1/2 the internet doesn't have internet
-
+* We need to spend more time in more problem pools
+* Follow people unlike yourself
+* Inclusion >> Diverse
+    * "Who are we leaving out?" vs _normal_ & _others_
 
 [top](#index)
 
