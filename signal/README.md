@@ -12,4 +12,4 @@
 * [Cracks in the Facade](day1#cracks-in-the-facade)
 
 ## Day 2
-* [Day 2 Keynote]
+* [Day 2 Keynote](day2#day-2-keynote)
