@@ -179,7 +179,7 @@
 
 ![Dev Ex](pics/improvingDevOboard.png)
 
-* Software engineers are working to improve the onboarding
+* Software engineers (NOT UX) are working to improve the onboarding
 * The process of taking a new user to pay you `$$` and use the thing
 * ~late 2016 xp = not the _BEST_ experience via a **Dashboard**
     1. Buy number
@@ -198,6 +198,8 @@
     * Finally -> Product spend $5- $1,000 month
 * No use-case is still a use-case
 * `Hippo` -> Highest paid person opinion
+
+
 
 [top](#index)
 
