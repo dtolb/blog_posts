@@ -81,6 +81,22 @@
 ## Build and Scale Real-Time Video with Programmable Video
 ### Rob Brazier & Luis Lopez
 
+![Rob and Luis](pics/robAndLuis.png)
+
+* Voice and messaging is great, but doesn't work for everything
+    * Doctors
+    * Developer hiring - hackerrannk
+    * Online Bank - Monese
+
+> Video calling is the fastest growing activity millennials do on their phones.
+
+* 87% of millennials managers perfer video calling for collaboration
+* By 2018 more than 6.2 **BILLION** people will be using a webRTC capable device
+
+![Why video](pics/whyVideoBandwidth.png)
+
+
+
 [top](#index)
 
 ## Chat Bots + IRL Bots: A Perfect Collision
