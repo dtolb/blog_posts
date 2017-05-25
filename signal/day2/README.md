@@ -164,6 +164,9 @@
     * Time _(money)_ -> Takes away from doing other things
     * Computer -> Obv
     * Internet -> Obv
+* Internet Deserts -> 11 million people in US don't have access to wired broadband
+    * Those that are affected are found in the lowest income areas
+    * More than 1/2 the internet doesn't have internet
 
 
 [top](#index)
