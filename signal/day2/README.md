@@ -73,7 +73,8 @@
 * Swift has two patterns for data
     * Class
     * Struct -> if you have a reference to a struct, it's yours. So if you mutate it doesn't affect anyone else;
-
+* Sequence and collection handling is well done in swift
+* Swift's error handling system is very explicit because of the Type System
 
 [top](#index)
 
