@@ -177,6 +177,28 @@
 ## Improving the Developer Onboarding Experience
 ### Kyle Woumn & Malika Nikhmonova
 
+![Dev Ex](pics/improvingDevOboard.png)
+
+* Software engineers are working to improve the onboarding
+* The process of taking a new user to pay you `$$` and use the thing
+* ~late 2016 xp = not the _BEST_ experience via a **Dashboard**
+    1. Buy number
+    2. Send message `from` twilio number
+    3. Send message `to` twilio number
+    4. Take you to docs
+* _MOST_ people don't end back up at the dashboard
+* Huge spectrum of devs
+    * No-code
+    * lots of code
+    * Regardless of skill set you can get up and running
+* Success at twilio is a funnel
+    * Top is just signing up
+    * Second is who sent a messages
+    * Product active -> at least 10 messages/day
+    * Finally -> Product spend $5- $1,000 month
+* No use-case is still a use-case
+* `Hippo` -> Highest paid person opinion
+
 [top](#index)
 
 ## NESpectre: The Massively Multi-Haunted NES
