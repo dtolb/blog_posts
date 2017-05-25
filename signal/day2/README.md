@@ -64,6 +64,17 @@
 ## Solving Sudoku in Swift
 ### [Soroush Khanlou](https://twitter.com/@khanlou)
 
+![Soroush Khanlou](pics/soroushKhanlou.png)
+
+* `let ` is immutable
+* `var` is mutable
+* Check out his [github](https://github.com/khanlou)
+* How to solve any [sudoku](http://norvig.com/sudoku.html)
+* Swift has two patterns for data
+    * Class
+    * Struct -> if you have a reference to a struct, it's yours. So if you mutate it doesn't affect anyone else;
+
+
 [top](#index)
 
 ## Build and Scale Real-Time Video with Programmable Video
