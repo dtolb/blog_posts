@@ -51,7 +51,13 @@
 * Voice insights brought resolvation time from days to hours.
 * Twilio runs 10,000s of tests on their carriers all of the time
 * They capture 1.1B datapoints per day on their networks.
+* [Hosted SMS](https://www.twilio.com/sms/hosted) - Enable texting on any number
 
+![Twilio Frame](pics/twilioFrame.png)
+
+* Chat and voice framework to build a slick user experience.
+* Mostly configurable CSS for layouts
+* Part of all the new SDKs
 
 [top](#index)
 
