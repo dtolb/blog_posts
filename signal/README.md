@@ -245,6 +245,11 @@
 
 ![Jessica and cell ed](pics/jessicaCell.png)
 
+* They bring _essential_ skills to anyone by a mobile phone
+* Using 2-way texting and voice calls allow a large amount of particpants to get up to speed in 4 months
+* Most of education-development is focused on k-12 and college. Completely missing the 90M us adults.
+* Teaching by text and voice allows 3-minute micro-lessons for everyone.
+
 [top](#index)
 
 ## Cracks in the Facade
