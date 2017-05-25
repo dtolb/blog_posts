@@ -13,3 +13,11 @@
 
 ## [Day 2](day2)
 * [Day 2 Keynote](day2#day-2-keynote)
+* [Solving Sudoku in Swift](day2#solving-sudoku-in-swift)
+* [Build and Scale Real-Time Video with Programmable Video](day2#build-and-scale-real-time-video-with-programmable-video)
+* [Chat Bots + IRL Bots: A Perfect Collision](day2#chat-bots--irl-bots-a-perfect-collision)
+* [Programmable Voice Meets Custom Vocabulary Speech Analytics](day2#programmable-voice-meets-custom-vocabulary-speech-analytics)
+* [Examining the Barriers to Contributing to Open Source](day2#examining-the-barriers-to-contributing-to-open-source)
+* [Improving the Developer Onboarding Experience](day2#improving-the-developer-onboarding-experience)
+* [NESpectre: The Massively Multi-Haunted NES](day2#nespectre-the-massively-multi-haunted-nes)
+* [Crowdsourcing Music via WebSockets](day2#crowdsourcing-music-via-websockets)

@@ -3,17 +3,20 @@
 ![signal pic](pics/signal_open_day2.png)
 
 ## Index
+
 * [Day 2 Keynote](#day-2-keynote)
-* [Solving Sudoku in Swift]()
-* [Build and Scale Real-Time Video with Programmable Video]()
-* [Chat Bots + IRL Bots: A Perfect Collision]()
-* [Programmable Voice Meets Custom Vocabulary Speech Analytics]()
-* [Examining the Barriers to Contributing to Open Source]()
-* [Improving the Developer Onboarding Experience]()
-* [NESpectre: The Massively Multi-Haunted NES]()
-* [Crowdsourcing Music via WebSockets]()
+* [Solving Sudoku in Swift](#solving-sudoku-in-swift)
+* [Build and Scale Real-Time Video with Programmable Video](#build-and-scale-real-time-video-with-programmable-video)
+* [Chat Bots + IRL Bots: A Perfect Collision](#chat-bots--irl-bots-a-perfect-collision)
+* [Programmable Voice Meets Custom Vocabulary Speech Analytics](#programmable-voice-meets-custom-vocabulary-speech-analytics)
+* [Examining the Barriers to Contributing to Open Source](#examining-the-barriers-to-contributing-to-open-source)
+* [Improving the Developer Onboarding Experience](#improving-the-developer-onboarding-experience)
+* [NESpectre: The Massively Multi-Haunted NES](#nespectre-the-massively-multi-haunted-nes)
+* [Crowdsourcing Music via WebSockets](#crowdsourcing-music-via-websockets)
 
 ## Day 2 keynote
+
+* Twilio dedicates 1% of equity to fund twilio.org in the next 10 years
 
 ## Solving Sudoku in Swift
 ### [Soroush Khanlou](https://twitter.com/@khanlou)
