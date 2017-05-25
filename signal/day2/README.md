@@ -16,7 +16,10 @@
 
 ## Day 2 keynote
 
-* Twilio dedicates 1% of equity to fund twilio.org in the next 10 years
+* Twilio dedicates 1% of equity to fund [twilio.org](https://www.twilio.org/) in the next 10 years
+* 300,000,000 (300 million) messages have been sent using twilio.org
+* Twilio.org impact fund will provide grants and volunteer time
+* Open Data Notifications -> Subscribe to notifications on issues that you care about.
 
 [top](#index)
 
