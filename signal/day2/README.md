@@ -93,6 +93,8 @@
 * 87% of millennials managers perfer video calling for collaboration
 * By 2018 more than 6.2 **BILLION** people will be using a webRTC capable device
 
+> Humans process data at a _much_ higher rate than other senses
+
 ![Why video](pics/whyVideoBandwidth.png)
 
 
