@@ -231,6 +231,8 @@
 ## NESpectre: The Massively Multi-Haunted NES
 ### [Andrew Reitano](https://twitter.com/@batslyadams)
 
+![Haunted NES](pics/hauntedNES.png)
+
 [top](#index)
 
 ## Crowdsourcing Music via WebSockets
