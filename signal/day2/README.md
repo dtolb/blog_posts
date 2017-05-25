@@ -32,6 +32,8 @@
 ![Salesforce Founder](pics/salesForceAndTwilio.png)
 
 * 1% Pledge from salesforce lead to atlassian and twilio
+* Automatic just contribute to non-profits
+* Over 3k companies have now pledged 1%
 
 [top](#index)
 
