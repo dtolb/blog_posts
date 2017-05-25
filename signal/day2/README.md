@@ -213,7 +213,18 @@
 
 * Sign up and then choose your use case
 * Land on the specific langing page for your use-case
-
+* Customers appreciated the _Use-case specific context_
+* Less effort by componentizing stesp
+    * Each one has about 5 steps
+    * Total of 55 components
+    * 5 point stories became 1 point stories
+* Fewer onboarding mistakes
+    * Fewer support tickets
+    * Fewer API mistakes
+* In the future they're going to focus on how to teach people to scale their applications
+* Reduce the number of external links within the console.
+* Once users leave the console they don't really come back 😢
+* Add more use case coverage around SMS
 
 [top](#index)
 
