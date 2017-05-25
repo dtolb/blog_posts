@@ -117,6 +117,8 @@
 ## Chat Bots + IRL Bots: A Perfect Collision
 ### [Suz Hinton](https://twitter.com/@noopkat)
 
+![suz hinton](pics/suzHinton.png)
+
 [top](#index)
 
 ## Programmable Voice Meets Custom Vocabulary Speech Analytics
