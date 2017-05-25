@@ -198,7 +198,21 @@
     * Finally -> Product spend $5- $1,000 month
 * No use-case is still a use-case
 * `Hippo` -> Highest paid person opinion
+* A/B tests can be difficult to run. Mutlisession, bringing back feedback, 3rd party cookie buckets.
+* `Geronimo`
+    * Sits on top of a/b testing cool called split
+    * Data-driven decisions
+    * Mutli-device & multi-session support
+    * Tie back to twilio metrics
+* Provided images and flow charts and detailed instructions for appt remdinders
+* Customers weren't aware they were given a `$`on sign up
 
+![react router form](pics/reactRouterDev.png)
+
+![use case routing](pics/useCaseRoutingDev.png)
+
+* Sign up and then choose your use case
+* Land on the specific langing page for your use-case
 
 
 [top](#index)
