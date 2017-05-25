@@ -129,6 +129,8 @@
 ## Programmable Voice Meets Custom Vocabulary Speech Analytics
 ### John Bocharov & Vineet Agarwal
 
+![Programmable Vocab](pics/programmableVocab.png)
+
 [top](#index)
 
 ## Examining the Barriers to Contributing to Open Source
