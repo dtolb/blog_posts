@@ -40,6 +40,19 @@
 * Twilio runtime is focusing on removing the mundane tasks and giving it to you as part of everyproduct
 * Twilio introducing [Functions](https://www.twilio.com/functions)
 
+![Twilio Rooms API](pics/twilioRooms.png)
+
+* Rooms API -> takes care of webrtc for you
+* Push new version of SDK every 2 weeks
+* Can record/ monitor/ channel management etc...
+
+![Twilio Voice Insights](pics/twilioCarrierInsights.png)
+
+* Voice insights brought resolvation time from days to hours.
+* Twilio runs 10,000s of tests on their carriers all of the time
+* They capture 1.1B datapoints per day on their networks.
+
+
 [top](#index)
 
 ## Solving Sudoku in Swift
