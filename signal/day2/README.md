@@ -24,7 +24,14 @@
 ![Programmable Wireless](pics/programmableWireless.png)
 
 * Programmable wireless - Twilio powered data, voice, messaging, iOT -> SIM Cards
+* Bikes, restauruant printers, cardiac arrest monitoring watch
+* Twilio Blueprints -> Step by step guides to build common use cases for iOT devices.
+* Trust on-board session management for trust iOT
+* New SIMs now available to 100+ countries (today in preview)
 
+![Salesforce Founder](pics/salesForceAndTwilio.png)
+
+* 1% Pledge from salesforce lead to atlassian and twilio
 
 [top](#index)
 
