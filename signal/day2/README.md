@@ -152,6 +152,20 @@
 ## Examining the Barriers to Contributing to Open Source
 ### Saron Yitbarek
 
+![Saron Yit](pics/saronYitbarek.png)
+
+* [Jesse Frazzle](https://blog.jessfraz.com/) One of docker's star engineers had been continually haraased just for public speaking
+* Everyone wants to provide value, but at some level people are denying folks these opportunities.
+* [Contributor Covenant](http://contributor-covenant.org/) is a good place to start for Code of conducts for open source projects
+* [I look like an engineer](https://en.wikipedia.org/wiki/I_Look_Like_an_Engineer)
+* Contributing to open source (**Pre-Reqs**)
+    * Code, but can start with README fixes
+    * Communicate -> A lot of time is spent marketing and reviewing pull requests
+    * Time _(money)_ -> Takes away from doing other things
+    * Computer -> Obv
+    * Internet -> Obv
+
+
 [top](#index)
 
 ## Improving the Developer Onboarding Experience
