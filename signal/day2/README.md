@@ -97,7 +97,14 @@
 
 ![Why video](pics/whyVideoBandwidth.png)
 
+* Twilio Rooms (group rooms) - 50 max connections and recordable via Twilio.
 
+![SFU vs MCU](pics/sfuVsMCU.png)
+
+* Flexible routing API -> selective forwarding enables dynamic, richer applications at lower costs.
+* On Amazon machines, can route up to 3,000 tracks
+* Twilio's SFU determines the quality for each client
+    * Simulcast packages various levels of quality to be processed by the SFU
 
 [top](#index)
 
