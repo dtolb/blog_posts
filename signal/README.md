@@ -255,4 +255,22 @@
 ## Cracks in the Facade
 ### [Jonathon Kingsley](https://jfkingsley.co.uk/)
 
+![Jon](pics/jonFacade.png)
 
+* Learning through Fail
+* Too many sockets
+    * from a security perpestive, everything open is an entry port
+    * We're now adding all these sockets to our home
+* Lifx exchange wifi password with a shared password
+* Nest camera light isn't tied to power or anything, but just controlled by MCU
+* We aren't changing default passwords
+* `HID` for access control is broken
+    * Configured door controllers
+    * NO santized input, can all be done over UDP so that everything unlocks at once
+* Integer overflow
+* Trains uses axel counter -> Same amount of axels that go in come out
+* Conclusion
+    * Majority of folks are unable to do these things
+    * Analyse -> Look at what you're designing -> Play Devil's advocate
+    * Minimise -> avoid over reaching access -> Understand each access adds risk
+    * Educate -> Make it better.
