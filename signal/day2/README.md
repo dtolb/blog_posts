@@ -105,6 +105,12 @@
 * On Amazon machines, can route up to 3,000 tracks
 * Twilio's SFU determines the quality for each client
     * Simulcast packages various levels of quality to be processed by the SFU
+* SFU can handle multiple codecs from/to other clients _(H.264, VP8, etc...)_
+* Twilio's SFU provides a _single connection_ to the client _(vs mutliple)_:
+    * Get full WebRTC capabilities
+    * Higher efficiency
+    * Enables intelligent policies
+
 
 [top](#index)
 
