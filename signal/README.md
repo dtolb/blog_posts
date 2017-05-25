@@ -243,6 +243,8 @@
 ## Mobilizing Design
 ### [Dr. Jessica Rothenberg-Aalami](https://twitter.com/@JessicaR_Aalami)
 
+![Jessica and cell ed](pics/jessicaCell.png)
+
 [top](#index)
 
 ## Cracks in the Facade
