@@ -119,6 +119,11 @@
 
 ![suz hinton](pics/suzHinton.png)
 
+* Check out her [github link](https://github.com/noopkat)
+* What if a chat bot could communicate to an `irl` bot
+* Twitch -> NodeJS Stream -> MQTT Broker (very lightweight comm protocol for hardware) -> Something??
+* Using [microsoft bot framework](https://dev.botframework.com/)
+
 [top](#index)
 
 ## Programmable Voice Meets Custom Vocabulary Speech Analytics
