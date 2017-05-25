@@ -35,6 +35,11 @@
 * Automatic just contribute to non-profits
 * Over 3k companies have now pledged 1%
 
+![Twilio Runtime](pics/twilioRunTime.png)
+
+* Twilio runtime is focusing on removing the mundane tasks and giving it to you as part of everyproduct
+* Twilio introducing [Functions](https://www.twilio.com/functions)
+
 [top](#index)
 
 ## Solving Sudoku in Swift
