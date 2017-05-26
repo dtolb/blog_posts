@@ -233,6 +233,15 @@
 
 ![Haunted NES](pics/hauntedNES.png)
 
+* Tied internet into Nintendo memory
+* Maniac Mansion -> 6502 nintendo @ 1.79Mhz
+* Started dev'ing larger games so needed a new project
+* Can control videogame console from computer
+
+![NES Stack](pics/NESGhostStack.png)
+
+* Now has NES cart. making assembly line
+
 [top](#index)
 
 ## Crowdsourcing Music via WebSockets
