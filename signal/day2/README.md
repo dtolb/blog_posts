@@ -250,4 +250,6 @@
 ## Crowdsourcing Music via WebSockets
 ### [Dan Gorelick](https://twitter.com/@dqgorelick)
 
+![DanGorelick](pics/DanGorelick.png)
+
 [top](#index)
