@@ -241,6 +241,9 @@
 ![NES Stack](pics/NESGhostStack.png)
 
 * Now has NES cart. making assembly line
+* Sprite usage
+* Music usage
+* Developers were required to think about working with cconstrained resources
 
 [top](#index)
 
