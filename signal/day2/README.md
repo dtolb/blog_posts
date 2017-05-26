@@ -252,4 +252,10 @@
 
 ![DanGorelick](pics/DanGorelick.png)
 
+* Instrument translates drawings to music
+* Crowdsourcing Music
+    * Taking advantage of a bunch of folks to create a song
+* Counterpoint
+    * Art or tech of plaing a melody in conjunction with another according to fixed rules.
+
 [top](#index)
