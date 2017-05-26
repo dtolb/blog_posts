@@ -256,6 +256,8 @@
 * Crowdsourcing Music
     * Taking advantage of a bunch of folks to create a song
 * Counterpoint
-    * Art or tech of plaing a melody in conjunction with another according to fixed rules.
+    * Art or technique of plaing a melody in conjunction with another according to fixed rules.
+
+![Counterpoint](pics/counterpoint.GIF)
 
 [top](#index)
