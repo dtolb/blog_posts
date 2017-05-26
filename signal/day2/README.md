@@ -253,6 +253,7 @@
 ![DanGorelick](pics/DanGorelick.png)
 
 * Instrument translates drawings to music
+* [Github](https://github.com/dqgorelick)
 * Crowdsourcing Music
     * Taking advantage of a bunch of folks to create a song
 * Counterpoint
