@@ -30,8 +30,8 @@ In order to route the outbound calls through Bandwidth, you will need to create 
 |:-----------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Username` | **required** | String identifying the user.                                                                                                                                                                                                                                                                                    |
 | `Domain`   | _optional_   | **Recommended to leave blank** <br> String refining the identity of the user. <br> The Domain will be joined to the UserName with an `@` to create a composite username. For example, the UserName `bob` could be combined with the domain `somewhere.com` to create a _composite username_ `bob@somewhere.com` |
-| `Hash1`    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of: `{composite-username}:{Realm}:{Password}`.                                                                                                                                   |
-| `Hash1b`   | **required** | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Domain}:{Password}`. <br> **If the `{Domain}` is not specified use the `{Realm}` as the `{Domain}`.**                                          |
+| `Hash1`    | **required** | String representing a potential Hash values used to authenticate the client. <br> The value should be computed from an MD5 Hash of: `{composite-username}:{Realm}:{Password}`.                                                                                                                                  |
+| `Hash1b`   | **required** | String representing a potential Hash value used to authenticate the client. <br> The value should be computed from an MD5 Hash of `{composite-username}:{Realm}:{Realm}:{Password}`.                                                                                                                            |
 
 
 _The Twilio platform requires a `SIPAuthUsername` and a `SIPAuthPassword`. These examples assume that your `username=sipauthtest` and `password=password`_
@@ -50,15 +50,25 @@ $ which md5
 
 Once md5 is insalled, run the command like: `md5 -s {composite-username}:{Realm}:{Password}` where `{Password}` is the desired password:
 
-#### Default setup (_NO Domain specified_)
+#### Default setup (_NO Domain specified as part of the user's ID_)
 
 ###### Generate md5 Hash1 _without_ domain
+
+| composite-username | `:` | realm                       | `:` | password   |
+|:-------------------|:----|:----------------------------|:----|:-----------|
+| `sipauthtest`      | `:` | `custxx.auth.bandwidth.com` | `:` | `password` |
+
 ```
 $ md5 -s sipauthtest:custxx.auth.bandwidth.com:password
 MD5 ("sipauthtest:custxx.auth.bandwidth.com:password") = fe438bddfc087dda89d29e637f5684ab
 ```
 
 ###### Generate md5 Hash1b _without_ domain
+
+| composite-username | `:` | realm                       | `:` | realm                       | `:` | password   |
+|:-------------------|:----|:----------------------------|:----|:----------------------------|:----|:-----------|
+| `sipauthtest`      | `:` | `custxx.auth.bandwidth.com` | `:` | `custxx.auth.bandwidth.com` | `:` | `password` |
+
 ```
 $ md5 -s sipauthtest@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password
 MD5 ("sipauthtest@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password") = 79bb0e55551e14a2f329a282c7cf1456
@@ -66,13 +76,23 @@ MD5 ("sipauthtest@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password")
 
 #### Non-default setup (_Domain specified_)
 
-###### Generate md5 Hash1 _with_ domain
+###### Generate md5 Hash1 _with_ domain `somewhere.com`
+
+| composite-username  | `:` | realm                       | `:` | password   |
+|:--------------------|:----|:----------------------------|:----|:-----------|
+| `bob@somewhere.com` | `:` | `custxx.auth.bandwidth.com` | `:` | `password` |
+
 ```
 $ md5 -s bob@somewhere.com:custxx.auth.bandwidth.com:password
 MD5 ("bob@somewhere.com:custxx.auth.bandwidth.com:password") = 817d76e91aad032a8c272229f468bfb2
 ```
 
-###### Generate md5 Hash1b _with_ domain
+###### Generate md5 Hash1b _with_ domain `somewhere.com`
+
+| composite-username  | `:` | realm                       | `:` | realm                       | `:` | password   |
+|:--------------------|:----|:----------------------------|:----|:----------------------------|:----|:-----------|
+| `bob@somewhere.com` | `:` | `custxx.auth.bandwidth.com` | `:` | `custxx.auth.bandwidth.com` | `:` | `password` |
+
 ```
 $ md5 -s bob@somewhere.com@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password
 MD5 ("bob@somewhere.com@custxx.auth.bandwidth.com:custxx.auth.bandwidth.com:password") = 39679d2a73c2e1ea719621bc0d8fdac8
