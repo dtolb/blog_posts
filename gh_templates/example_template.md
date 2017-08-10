@@ -14,10 +14,10 @@ Description of the app/example and what it should do. This is a first draft on i
 
 ## Table of Contents
 
-* [What this Example Does]
-* [Prerequisites]
-* [Deploy Locally]
-* [Deploy to _service_]
+* [What this Example Does](#what-this-example-does)
+* [Prerequisites](#prerequisites)
+* [Deploy Locally](#deploying-locally-with-ngrok)
+* [Deploy to _service_](#deploy-heroku-or-azure)
 
 ## What this Example Does
 
@@ -67,13 +67,7 @@ You'll see the terminal show you information
 
 ![ngrok terminal](readme_images/ngrok_terminal.png)
 
-Copy the `http://8a543f5f.ngrok.io` link and paste it into your browser.
-
-> On first run, the application will create the Bandwidth callbacks and voice/messaging application for you.  Be sure you visit the `ngrok` url and not `localhost`. Bandwidth needs to be able to send callbacks.
-
-![landing page](readme_images/landingpage.png)
-
-## Installing and running
+### Installing and running
 
 Once [ngrok](#deploying-locally-with-ngrok) is up and running. Open a new tab and clone the repo:
 
@@ -102,6 +96,12 @@ npm run debug
 ### Open the app using the `ngrok` url
 
 When the app runs for the first time, it setups the Bandwidth voice and messaging callbacks for the application for you.  It sets the callback urls based on the url visited!
+
+Copy the `http://8a543f5f.ngrok.io` link and paste it into your browser.
+
+> On first run, the application will create the Bandwidth callbacks and voice/messaging application for you.  Be sure you visit the `ngrok` url and not `localhost`. Bandwidth needs to be able to send callbacks.
+
+![landing page](readme_images/landingpage.png)
 
 ## Deploy Heroku or Azure
 Manual steps to deploy if they don't want the button
