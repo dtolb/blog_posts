@@ -54,7 +54,7 @@ Talk about any prereqs the user should meet before trying to install/use the app
 
 [Ngrok](https://ngrok.com) is an awesome tool that lets you open up local ports to the internet.
 
-![Ngrok how](readme_images/ngrok_how.png)
+![Ngrok how](https://s3.amazonaws.com/bw-demo/ngrok_how.png)
 
 Once you have ngrok installed, open a new terminal tab and navigate to it's location on the file system and run:
 
@@ -65,7 +65,7 @@ $ ./ngrok http 3000
 
 You'll see the terminal show you information
 
-![ngrok terminal](readme_images/ngrok_terminal.png)
+![ngrok terminal](https://s3.amazonaws.com/bw-demo/ngrok_terminal.png)
 
 ### Installing and running
 
