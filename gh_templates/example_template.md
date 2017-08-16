@@ -3,7 +3,7 @@
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]() [![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 
-Description of the app/example and what it should do. This is a first draft on increasing the quality/readability of or examples.
+An app for [Bandwidth Voice and Messaging APIs](http://dev.bandwidth.com/).
 
 > Put deploy buttons towards the top
 
@@ -16,8 +16,11 @@ Description of the app/example and what it should do. This is a first draft on i
 
 * [What this Example Does](#what-this-example-does)
 * [Prerequisites](#prerequisites)
+    * [Env Variables](#env-variables)
 * [Deploy Locally](#deploying-locally-with-ngrok)
-* [Deploy to _service_](#deploy-heroku-or-azure)
+    * [Directly](#directly)
+    * [Docker](#via-docker)
+
 
 ## What this Example Does
 
@@ -59,39 +62,47 @@ Talk about any prereqs the user should meet before trying to install/use the app
 Once you have ngrok installed, open a new terminal tab and navigate to it's location on the file system and run:
 
 ```bash
-$ cd ~/Downloads/
-$ ./ngrok http 3000
+./ngrok http 3000
 ```
 
 You'll see the terminal show you information
 
 ![ngrok terminal](https://s3.amazonaws.com/bw-demo/ngrok_terminal.png)
 
-### Installing and running
+### Directly
 
 Once [ngrok](#deploying-locally-with-ngrok) is up and running. Open a new tab and clone the repo:
 
 ```bash
-git clone https://github.com/dtolb/masked-number-api.git
+ git clone https://github.com/dtolb/masked-number-api.git
+ cd masked-number-api
 ```
 
-Then change into the directory and install [`nodemon`](https://www.npmjs.com/package/nodemon).  `nodemon` watches for changes in the local directory and auto restarts the app.
-
-```bash
-cd masked-number-api
-```
-
-### Install node modules
+#### Install node modules
 
 ```bash
 npm install
 ```
 
-### Run the app
+#### Run the app
 
 ```bash
 npm run debug
 ```
+
+
+### Via Docker
+
+```bash
+# fill .env file with right values
+# vim ./.env
+
+# then run the app (it will listen port 8080)
+PORT=3000 docker-compose up -d
+# Open in browser url shown by ngrok
+
+```
+
 
 ### Open the app using the `ngrok` url
 
