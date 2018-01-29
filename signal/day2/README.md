@@ -46,6 +46,8 @@
 * Push new version of SDK every 2 weeks
 * Can record/ monitor/ channel management etc...
 
+### Voice Insights
+
 ![Twilio Voice Insights](pics/twilioCarrierInsights.png)
 
 * Voice insights brought resolvation time from days to hours.
