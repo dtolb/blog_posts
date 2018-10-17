@@ -127,7 +127,7 @@
 * Has a Flex Plugin to capture information
 * Has voice today, will be bringing to all Channels (Mobile payment (apple/google))
 
-#### Sample TwiML for <Pay>
+#### Sample TwiML for `<Pay>`
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
