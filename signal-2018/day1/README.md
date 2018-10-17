@@ -123,6 +123,19 @@
 * Twilio now supports `<Pay>` over the phone without forcing _you_ to be PCI compliance.
 * Developer toolkit is rapidly expanding
 * Increase revenue by reducing friction (convert to payed)
+* A new TwiML verb `<Pay>` to get up and running
+* Has a Flex Plugin to capture information
+* Has voice today, will be bringing to all Channels (Mobile payment (apple/google))
+
+#### Sample TwiML for <Pay>
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say> Welcome to kickflip boards</Say>
+    <Pay chargeAmount="59.99" action="{url}"/>
+</Response>
+```
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
