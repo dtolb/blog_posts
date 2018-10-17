@@ -322,6 +322,8 @@
   * Already familiar with messaging API
   * Let them focus on the **product** not building to specific APIs
 * ~20% of customers opted in to whatsapp
+* Now building out 2 way persistent messaging
+  * Single channel for customer ↔ Business
 
 [top](#index)
 
