@@ -305,6 +305,16 @@
   * etc...
 * Great way to play around with **full features** without charging
 
+![Deliveroo](pics/deliveroo.JPG)
+
+* Bringing great tasting food straight to your door
+* Goal is to deliver 3 meals a day
+* Wanted to work late and not worry about food
+* In London was much harder to get better delivery
+* Several new hires actually deliver food
+* Founded in 2013 & 13 countries & Over 50k partners & over 380 tech staff
+* Unique challenge to get food to you in 30 minutes
+
 [top](#index)
 
 ## Grubhub
