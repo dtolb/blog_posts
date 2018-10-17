@@ -90,6 +90,8 @@
 * over 1 million developers
 * Send about half trillion emails per year
 
+### Flex
+
 ![application-platform](pics/app-plat.JPG)
 
 * Speed of an app with the flexibility of an API
@@ -109,6 +111,8 @@
 * Flex can be paid by "Per active user per hour"
 
 [top](#index)
+
+### Pay
 
 ![Dominos](pics/dominos.JPG)
 
@@ -141,6 +145,8 @@
     <Pay chargeAmount="59.99" action="{url}"/>
 </Response>
 ```
+
+### Autopilot
 
 ![bots](pics/bots.JPG)
 
