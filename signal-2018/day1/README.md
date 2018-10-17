@@ -4,6 +4,8 @@
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
+  * [Pay]()
+  * [Autopilot]()
 * [Target's Guide](#targets-guide)
 * [Twilio and Whatsapp](#twilio-and-whatsapp)
 * [Grubhub](#grubhub)
@@ -136,6 +138,19 @@
     <Pay chargeAmount="59.99" action="{url}"/>
 </Response>
 ```
+
+![bots](pics/bots.JPG)
+
+* Need a new type of tool for bots to exceed
+* Needs to be conversational, omnichannel, NLP support
+* The future is still conversational... we have been reacting to how computers work, we want to force computers to adapt to us.
+* Autopilot Actions
+  * `{Say}` → Speak
+  * `{Show}` → Display
+  * `{Remember}` → Keep for context
+  * `{Collect}` → _web_ form style get information
+    *
+  * `{Handoff}` → Send to agent
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
