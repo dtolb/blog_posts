@@ -330,6 +330,37 @@
 ## Grubhub
 ### [Elisa Bellagamba & Akhil Karanth](https://signal.twilio.com/sessions/GKUYRJzcEeiDzApYClWoBw)
 
+![Grubhub](pics/grubhub.JPG)
+
+> Grubhub’s Cloud and Infrastructure team will walk you through their approach to solving critical business problems from evaluation to implementation using their Masked Communications project as a case study.
+
+* Contextual communications done right are great (amazon)
+* Done poorly
+  * I don't want to speak to **ANY** agent
+  * Intermediate person rarely adds value
+* Instacart solves the problem by provision numbers for each shopper/buyer
+* Why Proxy
+  * Faster time to deployment
+  * Cost savings (fewer phone numbers)
+  * Customized Experience
+
+![Grubhub2](pics/grubhub2.jpg)
+
+* Operates in a 3 pillar system
+  * Diners
+  * Restaurants
+  * Delivery Partners
+* Creates a nice feedback loop
+  * Diners making more orders
+  * More money to restaurants
+  * Need more delivery Partners and make more money
+  * Then more variety → More orders, etc...
+
+#### Why communications matter in this model
+
+*
+
+
 [top](#index)
 
 ## SMS at Scale
