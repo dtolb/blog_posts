@@ -446,6 +446,13 @@
 
 ![flowchart](pics/dosomethingflow.JPG)
 
+* When someone replies 'y' what did they agree to
+* In a distributed system, what are **they** saying yes.
+
+![whatmessage](pics/whatMessage.JPG)
+
+
+
 [top](#index)
 
 ## How we built our Super Network
