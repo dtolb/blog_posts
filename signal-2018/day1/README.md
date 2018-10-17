@@ -32,6 +32,13 @@
   * When you call, you get an auto-text acknowledging the call
 * Want to rebuild the communications systems that connect elected officials
 
+![Twilio Quest](pics/quest.JPG)
+
+* Twilio quest has racked up over 100 million points
+* Twilioquest is expanding and to get more people learning to code
+* Now has a cute lil 2D game mode
+
+
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
 
