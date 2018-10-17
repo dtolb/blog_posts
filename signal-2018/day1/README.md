@@ -105,6 +105,19 @@
 * Pricing typical is a per-seat model for a call-center
 * Flex can be paid by "Per active user per hour"
 
+![Dominos](pics/dominos.JPG)
+
+* Talk a lot about technology to consumers
+* Showcase that the "dominos brand" is easy to use
+* What is next for dominos?
+  * Customers wanted better pizza tracking methods
+  * Push
+  * Alexa
+  * SMS
+* 60%+ of orders are all e-orders
+* 30% of orders are over the phone (credit card)
+* Moving forward to payments (PCI compliance)
+
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
 
