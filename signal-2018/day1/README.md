@@ -41,7 +41,7 @@
   * 50% employees women
   * 30% Under-represented populations
 
-![Business-Comm](bizcomm.JPG)
+![Business-Comm](pics/bizcomm.JPG)
 
 * Business engagement is not going as well as expected
 * Internal systems are fighting themselves
