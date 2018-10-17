@@ -4,6 +4,7 @@
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
+  * [Flex]()
   * [Pay]()
   * [Autopilot]()
 * [Target's Guide](#targets-guide)
@@ -107,6 +108,8 @@
 * Pricing typical is a per-seat model for a call-center
 * Flex can be paid by "Per active user per hour"
 
+[top](#index)
+
 ![Dominos](pics/dominos.JPG)
 
 * Talk a lot about technology to consumers
@@ -151,6 +154,8 @@
   * `{Collect}` → _web_ form style get information
     *
   * `{Handoff}` → Send to agent
+
+[top](#index)
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
