@@ -15,6 +15,12 @@
 
 * Home depot talked to how they're using twilio to manage "Where is my order" style notifications.
 
+![apis](pics/apis.JPG)
+
+* Jeff talks about how APIs democratize the future
+** Nordstrom uses APIs to build communications to connect tailors and stylist
+** Dominos uses Alexa & APIs to wire-up pizza and people
+
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
 
