@@ -87,6 +87,11 @@
 * over 1 million developers
 * Send about half trillion emails per year
 
+![application-platform](pics/app-plat.JPG)
+
+* Speed of an app with the flexibility of an API
+* **Pushing flex hard**
+*
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
