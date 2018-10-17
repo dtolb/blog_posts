@@ -146,6 +146,8 @@
 </Response>
 ```
 
+[top](#index)
+
 ### Autopilot
 
 ![bots](pics/bots.JPG)
@@ -158,8 +160,9 @@
   * `{Show}` → Display
   * `{Remember}` → Keep for context
   * `{Collect}` → _web_ form style get information
-    *
+    * Has validation built in (handles non-happy path pretty well)
   * `{Handoff}` → Send to agent
+
 
 [top](#index)
 
