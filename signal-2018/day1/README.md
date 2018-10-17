@@ -102,6 +102,8 @@
 * Flex plugin builder based of create-react-app (runs flex locally while building)
 * Components are modular and can be moved around
 * Relatively rapid A & B testing on call center
+* Pricing typical is a per-seat model for a call-center
+* Flex can be paid by "Per active user per hour"
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
