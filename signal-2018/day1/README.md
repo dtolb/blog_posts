@@ -179,6 +179,46 @@
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
 
+![target](pics/target.JPG)
+
+> We decided to use the vendor solution because I don't think your team can deliver
+
+#### Work didn't work
+
+* Lots of old stuff, some other than 30 years old
+  * Literally buying things from eBay to keep it up
+* Slow speed to market
+  * used to use a lot of vendors
+  * Go to vendor (hey we want this feature)
+  * Vendor won't do the use-case; not going to fit in their priority
+  * We'll build this component but we need you to invest as well
+* Very low NPS with internal teams
+  * Part of the process in the build versus buy systems. you **need** to survey your customers
+  * Seeing NPS scores in the 40s & 50s (people weren't trusting)
+
+#### Fostering Change
+
+* Need to create innovative culture
+  * Need to just play around with some things
+  * Created a bullseye speech assistant dog
+    * Never going to go to production (but learned lots of businesses)
+* Product Focus
+  * Talked to everyone at a store
+  * What leaders thought were happening wasn't actually happening
+  * Without a strong product culture you're gonna struggle
+* Open/API First Services
+  * If your (_internal_) products can't interface, you're not doing it right
+* Sell Journey and Change with Build vs Buy
+  * Sell the journey and the improvements **not** how much money you're going to save
+  * What friction you're going to remove → Better product
+
+#### Team Transformation takes time
+
+* Teams need to skill up and need to buy into the future vision
+* Partnerships are key
+* Progress over perfections
+
+
 [top](#index)
 
 ## Twilio and Whatsapp
