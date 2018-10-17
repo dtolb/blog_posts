@@ -446,12 +446,12 @@
 
 ![flowchart](pics/dosomethingflow.JPG)
 
-* When someone replies 'y' what did they agree to
-* In a distributed system, what are **they** saying yes.
-
 ![whatmessage](pics/whatMessage.JPG)
 
-
+* When someone replies 'y' what did they agree to
+* In a distributed system, what are **they** saying yes.
+* Working with twilio on what 10s of thousands of error messages mean (edge cases)
+* Reduce **DoSomething** software footprint (small team can't manage everything)
 
 [top](#index)
 
