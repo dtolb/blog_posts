@@ -4,9 +4,9 @@
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
-  * [Flex]()
-  * [Pay]()
-  * [Autopilot]()
+  * [Flex](#flex)
+  * [Pay](#pay)
+  * [Autopilot](#autopilot)
 * [Target's Guide](#targets-guide)
 * [Twilio and Whatsapp](#twilio-and-whatsapp)
 * [Grubhub](#grubhub)

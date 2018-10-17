@@ -4,6 +4,9 @@
 
 ## [Day 1](day1)
 * [Day 1 Keynote](day1#day-1-keynote)
+  * [Flex](day1#flex)
+  * [Pay](day1#pay)
+  * [Autopilot](day1#autopilot)
 * [Target's Guide](day1#targets-guide)
 * [Twilio and Whatsapp](day1#twilio-and-whatsapp)
 * [Grubhub](day1#grubhub)
