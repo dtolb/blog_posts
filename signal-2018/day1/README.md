@@ -118,6 +118,12 @@
 * 30% of orders are over the phone (credit card)
 * Moving forward to payments (PCI compliance)
 
+![stripe & twilio](pics/stripe.JPG)
+
+* Twilio now supports `<Pay>` over the phone without forcing _you_ to be PCI compliance.
+* Developer toolkit is rapidly expanding
+* Increase revenue by reducing friction (convert to payed)
+
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
 
