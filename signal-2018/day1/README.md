@@ -226,7 +226,7 @@
 
 #### Integration in Communications
 
-* Wanted to integrate SMS (got quoted 250k)
+* Wanted to integrate SMS (got quoted $250k)
 * Took 3 days to build out a spike
 * were able to pump out MVP in 3 hours
 
@@ -250,6 +250,40 @@
 
 ## Twilio and Whatsapp
 ### [Rahma Javed & Anne Byrne](https://signal.twilio.com/sessions/KeMDqpzcEeiHpQpYClWZDA)
+
+![whatsapp](pics/whatsapp.JPG)
+
+>WhatsApp was designed as a pure peer-to-peer messaging network with end-to-end encryption between devices. Rather than hitting a central API, WhatsApp business messaging requires hosting, managing and scaling Docker containers that emulate “devices” on the network. In this talk, we’ll dig into how we built the processes, infrastructure and orchestration necessary to reliably do this at scale. We’ll hear from Deliveroo on how they were able to integrate WhatsApp notifications in just a few weeks and the impact it’s had on their business.
+
+* Big difference in usage compared to SMS in the USA versus the rest of the world
+* Whatsapp Deliverability is a bit better than SMS in certain locales
+* 1.5 **Billion** active users
+* 320 Million in India and Brazil only
+* 50 **Billion** messages daily
+
+#### Channels
+
+* Whatsapp, Line, RCS, Messenger, & More
+* Need some sort of `to` & `from` & `body`
+* **normalized** the messages structure
+  * prepend `whatsapp` to the phone number IE: `{to: "whatsapp:+18282223333"}`
+* Reused the messaging (sms) Queue, rate limit, etc... infrastructure
+* Have to transform the normalized message into each specific API
+  * Each service has to auth
+  * How does media work
+  * What is the content type
+* Transforms are managed through a configuration file (config / convention → But internal)
+
+#### Whatsapp Business API
+
+![whatsapp-api](pics/whatsapp2.JPG)
+
+* End-to-end encrypted & peer-to-peer
+* Comms must flow through "devices" with unique phone numbers and rotating keys
+* Device Emulation (docker)
+* Containers must run in-house in AWS/GCP
+* Integrate with containers web API.
+* One set of containers per phone number
 
 [top](#index)
 
