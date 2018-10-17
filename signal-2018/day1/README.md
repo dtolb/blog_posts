@@ -91,7 +91,17 @@
 
 * Speed of an app with the flexibility of an API
 * **Pushing flex hard**
-*
+* "We are stuck with an on-prem install with Professional Services" -or- "We can deploy a SaaS app and we can't change anything"
+* Tested with contact centers with 50k agents
+
+![change-anything](pics/change-anything.JPG)
+
+* Flex is extended through plugins
+* Updates are outside of the continuous updates
+* Quick updates w/not a ton of code
+* Flex plugin builder based of create-react-app (runs flex locally while building)
+* Components are modular and can be moved around
+* Relatively rapid A & B testing on call center
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
