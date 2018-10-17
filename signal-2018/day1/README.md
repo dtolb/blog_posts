@@ -417,6 +417,35 @@
 ## SMS at Scale
 ### [Matthew Holford](https://signal.twilio.com/sessions/TXYvBJzcEeiDzApYClWoBw)
 
+![smsatscale](pics/smsatscale.JPG)
+
+* Non-profit that engages folks over SMS
+* At any given point they have a number of different campaigns
+* Founded in 1993, 6 million members, every zip code, 100+ countries
+* Two main channels:
+  * Web
+  * SMS (subset that is a complete sms experience)
+* Millions of messages per broadcast
+* 2x cost of anything else
+* Two SMS companies
+  * Crisis Text Line
+  * Shine Text
+* SMS can be weird
+  * No UI to design
+  * Conversations != screen readers
+  * Segmentation are tough
+* Dedicated keyword to respond (converts at a higher rate)
+* SMS to web works well, so long as the mobile site is mobile friendly
+* missing features
+  * Broadcast lists
+  * Segmentation
+  * A/B tests
+  * Customer Support
+  * conversational flow
+  * Systems integration
+
+![flowchart](pics/dosomethingflow.JPG)
+
 [top](#index)
 
 ## How we built our Super Network
