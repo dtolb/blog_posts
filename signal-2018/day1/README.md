@@ -284,6 +284,26 @@
 * Containers must run in-house in AWS/GCP
 * Integrate with containers web API.
 * One set of containers per phone number
+* Supporting multiple countries and several phone numbers, infrastructure gets crazy
+* In order to even get started with the containers, you have to request access.
+* Gets tedious and time consuming if you're managing many numbers
+* Whatsapp API versions deprecate every 180 days
+* Auth tokens are not ephemeral (Generated once). Have to request and securely store the messages
+* Tokens expire weekly
+
+![whatsapp3](pics/whatsapp3.JPG)
+
+* They (twilio) have positioned themselves as the "_RunOps_" team and one-stop-shop
+* Anytime you want to message a user more than once every 24 hours you need to use a pre-approved template
+* Whatsapp Ratelimit = 20 MPS and Spike = 60 MPS
+
+![whatsapp4](pics/whatsapp4.JPG)
+
+* Sandbox ties in to any product
+  * Flex
+  * Studio
+  * etc...
+* Great way to play around with **full features** without charging
 
 [top](#index)
 
