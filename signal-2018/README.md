@@ -9,7 +9,7 @@
 * [Twilio and Whatsapp](day1#twilio-and-whatsapp)
 * [Grubhub](day1#grubhub)
 * [SMS at Scale](day1#sms-at-scale)
-* [How we built our Super Network](day1#how- we-built-our-super-network)
+* [How we built our Super Network](day1#how-we-built-our-super-network)
 * [Building Phone Verification at Scale](day1#building-phone-verification-at-scale)
 
 ## [Day 2](day2)

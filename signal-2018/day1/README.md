@@ -8,7 +8,7 @@
 * [Twilio and Whatsapp](#twilio-and-whatsapp)
 * [Grubhub](#grubhub)
 * [SMS at Scale](#sms-at-scale)
-* [How we built our Super Network](#how- we-built-our-super-network)
+* [How we built our Super Network](#how-we-built-our-super-network)
 * [Building Phone Verification at Scale](#building-phone-verification-at-scale)
 
 ## Day 1 Keynote
