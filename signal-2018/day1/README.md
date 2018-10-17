@@ -397,7 +397,9 @@
 * Creates and manages the sessions via the Proxy API
 * Set a timeout for the relationship (TTL)
 * 9 Lines of Java Code
-
+* Customizing the XP
+  * Out of session if someone calls, route to customer care
+  * Use country code & area code matching (must buy each one)
 
 
 [top](#index)
