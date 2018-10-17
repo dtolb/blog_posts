@@ -344,7 +344,7 @@
   * Cost savings (fewer phone numbers)
   * Customized Experience
 
-![Grubhub2](pics/grubhub2.jpg)
+![Grubhub2](pics/grubhub2.JPG)
 
 * Operates in a 3 pillar system
   * Diners
