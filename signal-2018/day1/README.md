@@ -215,9 +215,36 @@
 #### Team Transformation takes time
 
 * Teams need to skill up and need to buy into the future vision
+  * Continual learning (hardware going to software)
+  * Good to keep tribal knowledge and grow folks
 * Partnerships are key
+  * How do you talk to a customer about what they're looking for and how you're going solve it
+    * Talk in terms they understand
 * Progress over perfections
+  * Something to sell "upwards" discover what you need versus want
+  * Senior leaderships needs things tied to KPIs
 
+#### Integration in Communications
+
+* Wanted to integrate SMS (got quoted 250k)
+* Took 3 days to build out a spike
+* were able to pump out MVP in 3 hours
+
+#### Building Partnerships builds a solid product
+
+* Result have been significant
+  * Needed a notification system in 6 weeks
+    * Texts, calls, emails, gathers responses
+  * In the amount of time the vendor negotiations were happening, they had an MVP
+* Far less reliant on vendors for work
+* Team is more engaged
+* Product consumption is up significantly
+
+> The work your team has completed on the TGTAlert application has made me rethink how I engaged IT
+
+* Built some stories with the product owners
+* Beginning to reuse some of the smaller products
+* Able to cross-use data
 
 [top](#index)
 
