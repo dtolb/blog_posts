@@ -72,7 +72,9 @@
 * Have over 1 trillion datapoints processing
 * **Can detect 97% of incidents in realtime**
 * All the complexity is managed away
-*
+* ISO, CSA, AICPA, GDPR Compliance
+* Becoming more difficult to keep track of all the channels
+* Channels are not stopping, (RCS & Apple Business Chat)
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
