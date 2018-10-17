@@ -162,7 +162,10 @@
   * `{Collect}` → _web_ form style get information
     * Has validation built in (handles non-happy path pretty well)
   * `{Handoff}` → Send to agent
-
+  * `{Redirect}` → Redirect
+* Omnichannel **just** kinda works
+* Can add some personality to the bots through Stylesheets (voice, etc...)
+  * Define `on_failure` and `on_success` with multiple phrases to keep it up.
 
 [top](#index)
 
