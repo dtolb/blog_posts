@@ -358,7 +358,35 @@
 
 #### Why communications matter in this model
 
-*
+* Need to make communications as instant as possible
+  * No parking, No badge, etc...
+* Solution #1 → Sharing Numbers
+  * Worked pretty well, but had some issues
+  * Not super secure (but contextual)
+  * No customer "ease of mind"
+  * No control on the customer experience
+* Solution #2 → Contact Center as Communication Hub
+  * Leverage the IVR for secure communications
+* Solution #3 → Build Custom Logic
+  * Gruhub would have complete control on masked communications
+  * Complex management of phone numbers utilization and masking sessions
+  * SMS doesn't have the concept of a "Session" → Very hard to build session management
+  * Scaling up requires additional work to provision a larger pool of phone numbers, etc...
+
+#### How Proxy Works
+
+![grubhub works](pics/howProxy.JPG)
+
+* 4 key objects in Proxy
+* Services
+  * Phone numbers logically grouped together (country codes, area codes, etc...)
+* Sessions
+  * Conversations, messages threads
+* Participants
+  * Users
+* Interactions
+  * Single SMS or Single Voice call between
+  * Gives insight between these interactions
 
 
 [top](#index)
