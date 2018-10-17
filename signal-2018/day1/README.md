@@ -75,6 +75,18 @@
 * ISO, CSA, AICPA, GDPR Compliance
 * Becoming more difficult to keep track of all the channels
 * Channels are not stopping, (RCS & Apple Business Chat)
+* **Really pushing the single integration point**
+
+![Sendgrid](pics/sendgrid.JPG)
+
+* Sending emails is easy... **delivering** emails is much more difficult
+* Sendgrid has a _supernetwork_ of ISPs to avoid SPAM filtering
+* High scale & high reliability
+* Really talking about trust
+* 74,000 companies use sendgrid
+* over 1 million developers
+* Send about half trillion emails per year
+
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
