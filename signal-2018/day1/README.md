@@ -37,7 +37,42 @@
 * Twilio quest has racked up over 100 million points
 * Twilioquest is expanding and to get more people learning to code
 * Now has a cute lil 2D game mode
+* Set goals for what Twilio looks like in 2023
+  * 50% employees women
+  * 30% Under-represented populations
 
+![Business-Comm](bizcomm.JPG)
+
+* Business engagement is not going as well as expected
+* Internal systems are fighting themselves
+* Great experiences when done correctly are memorable (Texting a hotel for lost key (Kipsu))
+* Built the [Engagement Cloud](https://www.twilio.com/engagement-cloud)
+* Adding to every part of the customer journey
+  * marketing
+  * Call tracking
+  * Alerts
+  * Account Verification
+  * Payments
+  * etc...
+* Redfin has started to build out better integrations
+* 1800-Flowers
+  * Alerts, payments, touch points all drive better CX
+  * Use twilio studio to model flows first
+  * Saving $ by deflecting calls with proactive notifications
+* Fedex Cross Border
+  * Mission is to get better at cross-border sales (Global Commerce)
+  * Dealing with customs, shipping, etc...
+  * How to make notifications realtime in a global landscape
+  * Without communications there is no commerce
+
+![carrier-network](pics/platform.JPG)
+
+* Based on the software layer on top of the network
+* If they know about an issue, they can route around outages
+* Have over 1 trillion datapoints processing
+* **Can detect 97% of incidents in realtime**
+* All the complexity is managed away
+*
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
