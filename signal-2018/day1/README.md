@@ -314,6 +314,14 @@
 * Several new hires actually deliver food
 * Founded in 2013 & 13 countries & Over 50k partners & over 380 tech staff
 * Unique challenge to get food to you in 30 minutes
+* 40% of first time orders are through the web
+* **Built their whatsapp integration in 2 weeks**
+* First time users are 2x more likely to call an order
+* Progress trackers are great, but push is good to (polling versus push)
+* Why Twilio? → Straightforward, built tested & shipped in 5 days.
+  * Already familiar with messaging API
+  * Let them focus on the **product** not building to specific APIs
+* ~20% of customers opted in to whatsapp
 
 [top](#index)
 
