@@ -18,19 +18,19 @@
 ![apis](pics/apis.JPG)
 
 * Jeff talks about how APIs democratize the future
-** Nordstrom uses APIs to build communications to connect tailors and stylist
-** Dominos uses Alexa & APIs to wire-up pizza and people
+ * Nordstrom uses APIs to build communications to connect tailors and stylist
+ * Dominos uses Alexa & APIs to wire-up pizza and people
 
 ![seamus](pics/seamus.JPG)
 
 * OpenGov Foundation is working to connect constituents to elected officials
 * Average age of Federal Technology is 15 years old
-** Senate voicemail inbox capacity it 300 total voicemails
+ * Senate voicemail inbox capacity it 300 total voicemails
 * Article1 gives the Senate unlimited voicemails
-** Transcribes the voicemails automatically
-** Adds text message to congress
-** When you call, you get an auto-text acknowledging the call
-**
+ * Transcribes the voicemails automatically
+ * Adds text message to congress
+ * When you call, you get an auto-text acknowledging the call
+* Want to rebuild the communications systems that connect elected officials
 
 ## Target's Guide
 ### [Josh Hoium](https://signal.twilio.com/speakers/hD5G-MQxEei3-gpYClQEBw)
