@@ -400,7 +400,17 @@
 * Customizing the XP
   * Out of session if someone calls, route to customer care
   * Use country code & area code matching (must buy each one)
-
+* Used in production for over 6 months
+* Took 2 weeks to deploy their code
+* Lessons learned
+  * Monitor everything
+    * Proxy API success and failure rate
+    * Interaction callback counts (config, interactions working)
+    * Phone numbers & number of sessions
+  * Plan for failure
+    * GrubHub has massive customer care org in the case things fail
+  * Be upfront with users
+    * let them know whats going on (build trust)
 
 [top](#index)
 
