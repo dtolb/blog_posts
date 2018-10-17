@@ -166,6 +166,13 @@
 * Omnichannel **just** kinda works
 * Can add some personality to the bots through Stylesheets (voice, etc...)
   * Define `on_failure` and `on_success` with multiple phrases to keep it up.
+* for very well defined workflows people like automated assistants
+* "Natural Language Router"
+  * Can route to data collection
+  * Question Answering
+  * Human
+* `{Handoff}`
+  * Can pipe into flex for callcenter
 
 [top](#index)
 
