@@ -188,6 +188,27 @@
 
 > The global SMS network can be an unforgiving place at times. Routes can go down because of carrier outages, messages can get delayed and even dropped completely, and local regulations can change at the drop of a hat. Detecting these issues before they affect your customers can be extremely challenging. In this session, you’ll hear about the systems and processes the Twilio Super Network uses to proactively detect and solve SMS deliverability issues to ensure our customers can always deliver their business-critical messages.
 
+* Previously: Needed SMPP know-how, SMSC, domain specific knowledge
+* Now, Just need a credit card and web app
+* Messages can fail to arrive for various reasons and all lead to bad use-cases
+* Delivery receipts aren't reliable; local regulations changing
+* DLRS are intended to confirm when an SMS is received successfully at the destination handset, but in practice they don't tell the whole story
+* DLRs
+  * Networks only acknowledge received not device
+  * Fake DLRs: generate fake successful DLRs to prevent gaming
+* Sender IDs
+  * Alphanumeric, Local Numbers, Non-local Numbers, Short Codes, Pre-registered sender IDs
+  * Not all operators support each senderId type
+  * Sometimes sender IDs are overwritten to comply with regulations
+  * Co-Pilot helps fix some of the oddness
+  * Global issues are difficult to navigate
+* Concatenation
+  * < 160 characters or 70 characters
+  * Data headers help re-build the data
+* Character Encoding
+  * Different encoding standards
+  * `@` symbol in Latin-1 is `¡`
+* Global Regulations are difficult
 
 
 
