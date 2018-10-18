@@ -106,9 +106,9 @@
 ## Things Every Company Should Know About Machine Learning
 ### [Ahmad Khan](https://signal.twilio.com/sessions/zaARAJzbEeiTGQpYClWbCg)
 
-> Artificial Intelligence (AI) and its most popular subfield, Machine Learning (ML), is all the rage these days. Futurists predict that every facet of our lives and every line of business is going to be transformed by ML. In this talk, we will focus on some of the key insights that every developer should know about ML. Theses insights will range from some of the key ML tools to some of the common fallacies and lessons learned related to the ML process. This is a high-level talk so no matter what your expertise level, you will likely walk away with some amount of learning.
-
 ![knowMachine](pics/knowMachine.JPG)
+
+> Artificial Intelligence (AI) and its most popular subfield, Machine Learning (ML), is all the rage these days. Futurists predict that every facet of our lives and every line of business is going to be transformed by ML. In this talk, we will focus on some of the key insights that every developer should know about ML. Theses insights will range from some of the key ML tools to some of the common fallacies and lessons learned related to the ML process. This is a high-level talk so no matter what your expertise level, you will likely walk away with some amount of learning.
 
 #### Context
 
@@ -184,7 +184,10 @@
 ## How the Super Network Solves SMS Issues at Scale
 ### [Lee Humby](https://signal.twilio.com/sessions/DnPrgqGdEeiJLApYClWbEg)
 
+![SuperScale](pics/superScale.JPG)
+
 > The global SMS network can be an unforgiving place at times. Routes can go down because of carrier outages, messages can get delayed and even dropped completely, and local regulations can change at the drop of a hat. Detecting these issues before they affect your customers can be extremely challenging. In this session, you’ll hear about the systems and processes the Twilio Super Network uses to proactively detect and solve SMS deliverability issues to ensure our customers can always deliver their business-critical messages.
+
 
 
 
