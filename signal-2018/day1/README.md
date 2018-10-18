@@ -487,8 +487,3 @@
 * Where they don't have numbers today, there is some regulatory barrier that won't allow it.
 
 [top](#index)
-
-## Building Phone Verification at Scale
-### [Dan Killmer](https://signal.twilio.com/sessions/LEvx9qGbEeiwFwpYClQOHA)
-
-[top](#index)
