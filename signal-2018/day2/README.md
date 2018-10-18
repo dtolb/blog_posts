@@ -209,7 +209,36 @@
   * Different encoding standards
   * `@` symbol in Latin-1 is `¡`
 * Global Regulations are difficult
+* SMS Delivery Challenges
+  * DLRs and fake
+  * SenderIDs issues
+  * Encoding and concatenation
+  * Regulatory Issues
 
+![SuperNetwork](pics/super.JPG)
+
+* Metrics
+  * real-time metrics
+  * DLR signaling
+  * Conversion rates
+  * Response times
+  * In theory can detect carrier outages before the carrier itself does
+* Feedback API → Can check to see for certain if a message was delivered (OTP)
+* What happens when they detect a problem
+  * False positives: invalid numbers, looping & flooding: run away code, blacklists
+  * Automate investigation: validation and verification, true end2end test, test alt routes
+  * Based on the results they can page an engineer or not
+* Highly redundant network
+  * Global redundancy, Route Depth, Continuous monitoring
+  * Routing algorithm → conversion rate %, test backup routes, weighted quality score
+
+![Results](pics/superResults.JPG)
+
+* Whats next
+  * more machine learning
+  * more networks
+  * more automation
+  * More use case testing
 
 
 [top](#index)
