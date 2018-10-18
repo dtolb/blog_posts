@@ -108,7 +108,64 @@
 
 > Artificial Intelligence (AI) and its most popular subfield, Machine Learning (ML), is all the rage these days. Futurists predict that every facet of our lives and every line of business is going to be transformed by ML. In this talk, we will focus on some of the key insights that every developer should know about ML. Theses insights will range from some of the key ML tools to some of the common fallacies and lessons learned related to the ML process. This is a high-level talk so no matter what your expertise level, you will likely walk away with some amount of learning.
 
+![knowMachine](pics/knowMachine.JPG)
 
+#### Context
+
+* APs twitter account gets hacked in 2013 (tweets about Explosions and Obama injured (fake))
+* Deep learning a subset of machine learning which is a subset of Artificial Intelligence
+* Supervised vs Unsupervised
+  * Supervised: predict a price of a house with linear regression.
+    * "beds, baths" are features
+    * Price is the label
+  * Unsupervised: Using clustering to do segmentation
+    * Only have features (no labels)
+    * Selling to a broad audience, which segment is buying your products (don't need labels)
+* Deep Neural Network
+  * Deep versus not: just the 'hidden layers'
+  * A neural network that has two or more hidden layers is considered 'deep'
+* Reinforcement Learning
+  * At a high level, the environment provides the 'agent (ML)' some sort of state
+  * based on the action of the agent, the state will change.
+  * Reward a 'point' and it becomes the next state
+* Traditional Programming
+  * Takes an algorithm & data to a computer and drives the output
+* Machine Learning
+  * Training algorithm & historical data go into machine... New data processing in machine
+* Advanced algorithm, data, hardware make this time prime for explosion
+  * Companies have been saving data for the past years and years
+* No data, no learning: "Data is Key"
+
+#### Key points
+
+* #1: data is gold
+  * Automation vs Augmentation: some sort of graph where humans vs machine
+* #2: Automations vs Augmentation
+  * Not every problem is well-suited for ML
+  * Problems with lots of **good quality** historical data - automate
+  * AI / Human Hybrid Solution?
+* #3: No general purpose intelligence
+  * You need to build a specific model for every specific problem
+    * Why is customer calling?
+    * What does the image contain?
+    * What are people saying about me on social media?
+    * Is this customer likely to make a purchase?
+* #4: Data quality matters
+  * Garbage in → Garbage out
+  * Data should contain "learnable" patterns
+* #5: Use fine-tuning / transfer learning
+  * Take existing models and fine-tune
+  * Most problems can be solved successfully using stat learning models
+* #6:
+  *
+* #7:
+  *
+* #8:
+  *
+* #9:
+  *
+* #10:
+  *
 
 [top](#index)
 
