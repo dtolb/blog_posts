@@ -52,6 +52,55 @@
   * Supports special uses cases
   * Debugging IoT can be **really hard**
 
+![twilio-stack](pics/superSimStack.JPG)
+
+* Wireless Super Network
+  * Same approach that Twilio has used for SMS & Voice
+  * Super as in "superset"
+  * Managed by Twilio to optimize for coverage, latency, & cost
+  * T-mobile, Telefonica, 3, Singtel
+* Network Redundancy
+  * Engineered for availability and fault tolerance
+  * Diversity in interconnect locations and IPX providers
+* One SIM, all the radio tech
+  * 2G/3G/LTE (existing)
+  * LTE CAT-M1 (existing)
+  * Narrowband (future)
+  * 5G (future)
+* A bit about SIM
+  * 5mhz processor
+  * Very well specified (most people actually follow this spec!)
+  * Runs _Java Card_
+* Embedded SIM
+  * MFF2 form factor
+  * Soldered directly onto the board at time of manufacture
+  * Smaller and more durable than replacement SIMs
+* eSIM
+  * eSIM is a solution designed by the GSMA for over the air management of SIM profiles
+  * eSIM is **not** a form factor and is compatible with all SIM form factors
+  * IMSI, Ki, Kc, etc... are all swapped over the air
+* Multi IMSI
+  * IMSI - international mobile subscriber identity
+  * Switching logic implemented on the SIM via an applet
+  * IMSI switch triggered on region change
+  * Same auth keys and core for every parallel
+* Embedded, eSIM compatible, Multi IMSI SIM
+  * Embedded is the form factor (MFF2)
+  * eSIM compatible allows for OTA updates
+* Super SIM available as removable or embedded SIM
+* OTA platform for super SIM
+  * updates for the multi IMSI applet tables
+  * Allows adding of new IMSIs
+  * Keep fleet up to date with latest optimizations
+  * Supports SMS and HTTP protocols
+* Pure software mobile core (AWS)
+  * deployed in various datacenters
+* Software Mobile core unlocks innovation
+  * Each time they deploy software the mobile core gets better
+  * On track for over 1k deployments this year
+  * Complete visibility for network attachments and data flow (gives developer as much visibility throughout the stack)
+* Working define a network access list to whitelist & blacklist (at a group level)
+
 [top](#index)
 
 ## Things Every Company Should Know About Machine Learning
