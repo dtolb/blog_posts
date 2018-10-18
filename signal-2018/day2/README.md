@@ -156,16 +156,28 @@
 * #5: Use fine-tuning / transfer learning
   * Take existing models and fine-tune
   * Most problems can be solved successfully using stat learning models
-* #6:
-  *
-* #7:
-  *
-* #8:
-  *
-* #9:
-  *
-* #10:
-  *
+* #6: Feature engineering is key
+  * Look for attributes that make the data richer
+  * Image & text is converted to some form of numerical representation in Neural Networks
+  * Example: Predicting seasonal sales
+    * Timestamp: `2017-09-29T20:45:40Z` has Time-of-day **and** season
+* #7: Invest in custom models for competitive differentiation
+  * Most low-hanging fruits can be had by using a cloud API
+  * Consider long-term cost
+  * Invest in custom model development if you have data no one else has access
+* #8: Choose the framework best for your use-case
+  * Look at language support, community support, visualization, distributed execution, & portability
+  * Start with higher-level framework such as Keras, Gluon or PyTorch
+  * Python is most widely supported programming language
+* #9: Consider re-training devs rather than hiring data Scientist
+  * Data Scientist ares super $
+  * Developers can be retrained to write custom models
+  * Developers with a background in math & science will have an edge
+* #10: Learn and be curious
+  * Lots of resources
+    * [fast.ai](fast.ai)
+    * Andrew Ng's deep learning class on coursera.com
+    * [gluon.mxnet.io](gloun.mxnet.io)
 
 [top](#index)
 
