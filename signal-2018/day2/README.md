@@ -13,14 +13,44 @@
 
 ## Day 2 Keynote
 
+* Twilio.org sent over 1 billion messages over the past 5 years & pledging to reach 1 billion people each year
+
+![Twilio-Wireless](pics/twilioWireless.JPG)
+
+* Wireless enabling shipping tracking
+* Lime, Scoot, Spin, Bird all using Twilio SIM
+* Smart home devices are taking off b/c cheap, easy, and universal
+* Benefit versus expense hard to justify for IoT devices outside the home
+* Twilio announcing the "Super SIM"
+* Single SIM, Single API, Single Bill for global reach
+* Partnering with T-mobile, Telefonica (SA), 3 (EU), Singtel (Asia)
+* Lots of devices don't really need lots of data. Trade off data for cost and power savings
+* NarrowBand solves **mass** deployment
+  * One-off Hardware Costs → $20 today to $5 next year
+  * Connectivity Cost going from months to years/decades
+  * Battery Life → 2AA Batteries **could** last 10 years
+* Twilio & Tmobile Launching narrowband network
+
+
 [top](#index)
 
 ## Introducing the Twilio Super SIM
 ### [Andrew Jordan](https://signal.twilio.com/sessions/nRPgupzcEeiDzApYClWoBw)
 
+![super sim](pics/superSim.JPG)
+
 > The IoT connectivity market is maturing quickly to support both high and low consumption devices. These categories are frequently referred to as Critical IoT (low latency, high throughput), and Massive IoT (high latency, low throughput). Join this session to learn how Twilio is solving for both Critical and Massive IoT with new Programmable Wireless offerings.
 
-
+* IoT is hard (especially if hardware is hard)
+* Iot Deployment stack doesn't really exist
+  * Hardware is unique
+  * Manufacturing costs
+  * Different connectivity options
+* When things get global, these problems compound
+* Super SIM makes global connectivity easy
+  * No such thing as regional deployments
+  * Supports special uses cases
+  * Debugging IoT can be **really hard**
 
 [top](#index)
 
