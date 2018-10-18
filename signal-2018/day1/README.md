@@ -458,6 +458,34 @@
 ## How we built our Super Network
 ### [Doug Gardner](https://signal.twilio.com/speakers/uh1kNKDcEeiFEApYClVgDw)
 
+![SuperNetwork](pics/supernetwork.JPG)
+
+> Phone calls are more important to your business today than ever before
+
+* Calls are obligated to be delivered.  Carriers can't block calls for business reason, but they can for network management (reasonable)
+* What is a carrier
+  * A common carrier in telco is an entity that provides wired and wireless communication to the general public for a fee
+  * Common Carrier encapsulates all companies offering phone service to the public; collectively the publicly addressable telephone network
+* What about VoIP Carriers
+  * ICV: Provide access lines to the public over IP equipment (Bandwidth)
+  * Non ICV: Provides real-time communications that originate from or terminate to the users location using IP or any successor protocol; building blocks of communications
+* Network today
+  * Variety of carriers - CMRS, ILEC, CLEC, VoIP, MSO companies and x-connect
+  * Each carrier an island of owner/operator end points optimized for their own business outcomes with span of control to their network edge
+  * Similar framework of carriers and interconnect specialists Globally
+
+![supernetwork overview](pics/supernetwork2.JPG)
+
+* Goal is to provide global access without concerns
+* Super Network Approach
+  * Onboard and validate the best connectivity partners aligned with their core values of quality and scale
+  * Scale supplier depth for redundancy and competition
+  * Stay vigilant on performance; reward outstanding performance and correct poor outcomes
+  * Keep the best; wash out the worst
+* Cycle improving networks within Twilio itself (survival of the fittest)
+* Q&A about A2P and P2P... Doubled down on short code is only channel for A2P
+* Where they don't have numbers today, there is some regulatory barrier that won't allow it.
+
 [top](#index)
 
 ## Building Phone Verification at Scale
