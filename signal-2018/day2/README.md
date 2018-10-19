@@ -246,8 +246,29 @@
 ## Delight Future Customers with Outbound Marketing
 ### [Guillaume Cabane](https://signal.twilio.com/sessions/rDNZsLMtEeidLgpYClQbBA)
 
+![Outbound](pics/outbound.JPG)
+
 > If you think marketing is a horrible be necessary evil, you're right. And outbound campaigns are the worse example of bad marketing. Massive and not relevant for most people. But it doesn't have to be that way. For B2B SaaS, we can now tell who's in the market for a specific product. We can use 3rd party intent data and machine learning predictions to create delightful marketing. Outbound messages that bring value to your prospects, or even better, delight.
 
+* Try to capture the person in the NOW
+* What happens before people land on your website?
+* All of the reviews and confirmation of information
+* 70% of B2B buyers prefer researching data on their own vs talking to sales rep
+  * Death of the B2B Salesman
+* Most searches start with generic
+* The last place people go for a purchasing decision: your website
+* Lowering the cost of CAC can lead to a crappy XP
+* MadKudu → Lead scoring
+* B2B buying cycle typically 12 steps before landing at your website
+* Intent data collection drives action with some fit scoring and enrichment
+* Hide the pricing link for large companies (dynamically)
+
+![Alltogether](pics/allTogether.JPG)
+
+* What do you do with all these leads
+  * New growth lead → Goes into salesforce, wait 24 hours, if no reachout → Automation
+* Automation versus sales reps. Some of the reps under perform compared to automation
+* Adding some AI in the middle mostly b/c of the prediction and decisions to make.
 
 [top](#index)
 
