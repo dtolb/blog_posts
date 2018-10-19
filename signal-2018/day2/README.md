@@ -275,6 +275,8 @@
 ## Lessons Learned from Bots
 ### [Chloe Condon & Bear Douglas](https://signal.twilio.com/sessions/isioZJzcEeiDzApYClWoBw)
 
+![chatapps](pics/chatApps.JPG)
+
 > In the two years since Slack launched its platform, over 1,000 bots and apps have been listed in its App Directory. In this talk, we’ll cover what we’ve seen makes bots successful, including case studies about: -Elements of good onboarding -How A/B testing your words can pay major dividends -How blending chat-based UI and interactive elements can boost engagement -An example from Sentry.io
 
 
