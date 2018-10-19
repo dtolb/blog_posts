@@ -279,16 +279,16 @@
 
 > In the two years since Slack launched its platform, over 1,000 bots and apps have been listed in its App Directory. In this talk, we’ll cover what we’ve seen makes bots successful, including case studies about: -Elements of good onboarding -How A/B testing your words can pay major dividends -How blending chat-based UI and interactive elements can boost engagement -An example from Sentry.io
 
-
-
-[top](#index)
-
-
-## The Hard Fought Battle of Production Machine Learning
-### [Sam Phippen](https://signal.twilio.com/sessions/QDgJrqGeEeiGVQpYClWoDg)
-
-> It's not uncommon, you have a problem where you finally need machine learning. You've got a great data science team. They come up with something, and put it out there, and then 6 month's later it's a broken down mess. We love our data science friends, but it's not their job to build great production software. As engineers, it's ours. In this talk, we'll go through the story of DigitalOcean's fraud prevention tooling, lovingly dubbed "sketchy". You'll learn about it's origin, our first attempt at using machine learning, and how we've come up with practical production machine learning strategies. You'll find out more about "standard" site reliability techniques, as well as how we change some of them for our ML work. This talk includes practical tips for everyone, but is best for those who have some experience operating production software.
-
+* Over 1,500 Apps (most paid teams 94% are using apps)
+* Slack apps differ through others as they're group based, engaged
+* What qualifies as **quick** and **contextual** work?
+* What qualifies as **quick** and **deep**?
+* Note that **quick** is the big note to keep in mind.
+* Best practices in messages
+  * Keep content clear and succinct (as glance-able as possible)
+  * Use defaults to remember preference
+  * Communicate with color
+  * Keep track of time! If actions have state, update them to long-live in the channel
 
 
 [top](#index)

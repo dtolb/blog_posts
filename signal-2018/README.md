@@ -20,4 +20,3 @@
 * [How the Super Network Solves SMS Issues at Scale](day2#how-the-super-network-solves-sms-issues-at-scale)
 * [Delight Future Customers with Outbound Marketing](day2#delight-future-customers-with-outbound-marketing)
 * [Lessons Learned from 1,000 Bots](day2#lessons-learned-from-bots)
-* [The Hard Fought Battle of Production Machine Learning](day2#the-hard-fought-battle-of-production-machine-learning)
