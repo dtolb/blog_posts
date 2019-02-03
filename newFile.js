@@ -9,6 +9,9 @@ function isIterable(obj) {
   return typeof obj[Symbol.iterator] === 'function';
 }
 
+
+
+
 const myFunc = async (a, b, c) => {
   a.forEach(element => {
     console.log(element);
