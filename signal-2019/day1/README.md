@@ -89,7 +89,6 @@
 * New verb `<Start>`
   * `<stream>` where to send media via WSS or SIP
 
-
 ## What can you do with Programmable Voice?
 
 [top](#index)
