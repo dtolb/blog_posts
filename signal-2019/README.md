@@ -18,4 +18,5 @@
 ## Big themes
 
 * Focusing on Customer Engagement & Omni-channel (go to where your customers are)
+* Pushing Omni-channel interactions
 

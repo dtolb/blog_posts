@@ -19,6 +19,7 @@
 * 13k messages/second
 * 3 Billion email addresses (half of all email addresses)
 * Run superclass into the enterprise and work with companies specifically for internal education
+* **75% of all Twilio SMS numbers are not configured for inbound SMS**
 
 ### How netflix uses Twilio
 
@@ -88,6 +89,15 @@
   * Conversation analytics
 * New verb `<Start>`
   * `<stream>` where to send media via WSS or SIP
+
+### What's Next - Era of Conversations
+
+* When companies started leveraging Whatsapp they got 53% response rate
+* Time to start listening to customers on their channel
+* "Conversations are eating apps"
+  * It's easy for the customer, there's nothing to download. (app fatigue)
+  * "BYOD" (bring your own device). Workers are no longer tied to desk and are using their own cell phone
+  * Follows natural behavior. Already texting our friends
 
 ## What can you do with Programmable Voice?
 
