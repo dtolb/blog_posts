@@ -43,6 +43,8 @@
 
 ### Developer Experience
 
+![CLI](pics/keynote-cli.jpg)
+
 #### Releasing Twilio CLI
 
 * Everyone starts mostly the same way... IDE and phone
