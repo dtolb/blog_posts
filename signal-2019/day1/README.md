@@ -30,6 +30,21 @@
 * Password reset over sms
 * Text message to mobile phone for low friction TV sign up
 
+### Production Releases 2019
+
+#### Starting in 2020 they will begin signing BAA
+
+* They released to production 125k times
+* Twilio Pay GA
+* Twilio recording encryption GA
+* Twilio for salesforce GA
+* A lot from their customers in Health Care Space
+* HIPAA and BAAs
+
+### Developer Experience
+
+*
+
 [top](#index)
 
 
