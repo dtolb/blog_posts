@@ -92,12 +92,21 @@
 
 ### What's Next - Era of Conversations
 
+![messaging](pics/messaging-keynote.jpg)
+
 * When companies started leveraging Whatsapp they got 53% response rate
 * Time to start listening to customers on their channel
 * "Conversations are eating apps"
   * It's easy for the customer, there's nothing to download. (app fatigue)
   * "BYOD" (bring your own device). Workers are no longer tied to desk and are using their own cell phone
   * Follows natural behavior. Already texting our friends
+* Apple Business Chat, Whatsapp, Facebook Messenger
+* RCS - Biggest upgrade to SMS in 40 years of messaging
+* Toll-free **up to** 25 msg/second
+
+### SVP Messaging
+
+* Conversational messaging isn't _quite_ happening yet
 
 ## What can you do with Programmable Voice?
 
