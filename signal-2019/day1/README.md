@@ -208,6 +208,10 @@
 * "Background" AMD... outbound call put into conference, while AMD agent is processing, the other participant that's in the conference is playing twiml.
   * If human, conference an agent in, they can hear the twiml and can seemlessly pickup
   * If machine, interrupt the audio and play from there.
+* Moving forward
+  * Roadmap driven by customer feedback
+  * Mediastreams beta is similar in vain to AMD
+
 
 [top](#index)
 
