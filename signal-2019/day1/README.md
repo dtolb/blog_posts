@@ -102,7 +102,6 @@
   * Follows natural behavior. Already texting our friends
 * Apple Business Chat, Whatsapp, Facebook Messenger
 * RCS - Biggest upgrade to SMS in 40 years of messaging
-* Toll-free **up to** 25 msg/second
 
 ### Messaging
 
@@ -110,6 +109,7 @@
 * Customers are no longer on hold... lowers resolution times
 * When a conversational interface exists 70-80% have a much better perception of the brand
 * Morgan Stanley has added conversations to great success.
+* Mentioned Group messaging
 
 ## What can you do with Programmable Voice?
 
