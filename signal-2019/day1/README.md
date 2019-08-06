@@ -152,6 +152,11 @@
 
 ## Twilio CLI
 
+![CLI](pics/twilio-cli.jpg)
+
+* Started with the Dashboard & Console
+  * Or through APIs
+
 [top](#index)
 
 ## Twilio CLI Workshop
