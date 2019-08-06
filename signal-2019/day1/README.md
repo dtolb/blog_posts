@@ -67,6 +67,22 @@
 * Connect the Journey (journey is your brand)
 * Create lasting Relationships
 
+## SendGrid
+
+* **Email validation API** Uses machine learning to determine if the email is valid before sending
+* **Marketing campaign management**
+* **Ads** in private beta (Facebook, instagram, google) all managed from single UI (tracked by email address)
+
+## Flex
+
+* Legacy on-prem providers: Avaya, Genesys
+  * Not flexible and not built for continuous improvement
+* Shopify was able to get to MVP in 4 weeks (4 months to production)
+* Lyft
+  * Support driver and rider, specific contact center
+  * The customizable interface with a single tool great for agent efficiency
+  * Saving 1 second over 1 million interactions
+
 ## What can you do with Programmable Voice?
 
 [top](#index)
