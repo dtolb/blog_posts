@@ -154,12 +154,18 @@
 
 ![CLI](pics/twilio-cli.jpg)
 
+* Entirely OSS
 * Started with the Dashboard & Console
   * Or through APIs
 * All Twilio APIs as commands
   * Phone number management
 * Ngrok built in
 * Tailing the logs
+* Command autocomplete built in
+* Plugin framework (accept pull requests)
+* Based on ['oclif'](https://github.com/oclif/oclif) open source CLI project
+* Using the Twilio-CLI as part of a build script (CI)
+*
 
 [top](#index)
 
