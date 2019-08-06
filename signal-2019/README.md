@@ -5,7 +5,7 @@
 * [Day 1 Keynote](day1#day-1-keynote)
 * [Media Streams](day1#media-streams)
 * [Twilio CLI](day1#twilio-cli)
-* [Twilio CLI Workshop](day1#twilio-cli-workshop)
+* [Calling all APIs](day1#calling-all-apis)
 * [answering machine detection](day1#answering-machine-detection)
 * [Freshcaller](day1#freshcaller)
 * [BYOC](day1#BYOC)

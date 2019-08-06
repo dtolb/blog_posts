@@ -6,7 +6,7 @@
 * [Day 1 Keynote](#day-1-keynote)
 * [Media Streams](#media-streams)
 * [Twilio CLI](#twilio-cli)
-* [Twilio CLI Workshop](#twilio-cli-workshop)
+* [Calling all APIs](#calling-all-apis)
 * [answering machine detection](#answering-machine-detection)
 * [Freshcaller](#freshcaller)
 * [BYOC](#BYOC)
@@ -165,11 +165,12 @@
 * Plugin framework (accept pull requests)
 * Based on ['oclif'](https://github.com/oclif/oclif) open source CLI project
 * Using the Twilio-CLI as part of a build script (CI)
-*
+* Really focusing on the first touch developer experience
+* Hard to see a ton of value for those that aren't constantly using Twilio
 
 [top](#index)
 
-## Twilio CLI Workshop
+## Calling all APIs
 
 [top](#index)
 
