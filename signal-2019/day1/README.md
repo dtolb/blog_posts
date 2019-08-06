@@ -156,6 +156,10 @@
 
 * Started with the Dashboard & Console
   * Or through APIs
+* All Twilio APIs as commands
+  * Phone number management
+* Ngrok built in
+* Tailing the logs
 
 [top](#index)
 
