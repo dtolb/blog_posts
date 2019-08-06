@@ -3,6 +3,15 @@
 
 ## [Day 1](day1)
 * [Day 1 Keynote](day1#day-1-keynote)
+* [What can you do with Programmable Voice?](day1#What-can-you-do-with-programmable-Voice)
+* [Programmable Voice announcement](day1#programmable-voice-announcement)
+* [Twilio CLI](day1#twilio-cli)
+* [Twilio CLI Workshop](day1#twilio-cli-workshop)
+* [answering machine detection](day1#answering-machine-detection)
+* [Freshcaller](day1#freshcaller)
+* [BYOC](day1#BYOC)
+* [SIP customers](day1#sip-customers)
+
 
 
 ## [Day 2](day2)
