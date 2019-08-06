@@ -219,6 +219,8 @@
 
 * `<Pay>` allows PCI compliant transactions
 * [inboxhealth](https://inboxhealth.com) uses these together to assist with healthcare payments
+* Nothing too new from last year in the demo except GA
+* For those wanting to collect payments over the phone, relatively straight forward implementation
 
 [top](#index)
 
