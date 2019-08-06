@@ -7,7 +7,7 @@
 * [Twilio CLI](day1#twilio-cli)
 * [Calling all APIs](day1#calling-all-apis)
 * [answering machine detection](day1#answering-machine-detection)
-* [Freshcaller](day1#freshcaller)
+* [Stripe and Twilio](day1#stripe-and-twilio)
 * [BYOC](day1#BYOC)
 * [SIP customers](day1#sip-customers)
 
@@ -20,3 +20,4 @@
 * Pushing Omni-channel interactions
 * Feels a bit more "sponsor-y" → Talks with sponsors spending more time demoing their product
 * Twilio Studio is used a lot for their own demos... not sure how frequently customers are using it.
+* No [Hackpacks!](https://hackpack.cc)

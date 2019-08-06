@@ -8,7 +8,7 @@
 * [Twilio CLI](#twilio-cli)
 * [Calling all APIs](#calling-all-apis)
 * [answering machine detection](#answering-machine-detection)
-* [Freshcaller](#freshcaller)
+* [Stripe and Twilio](#stripe-and-twilio)
 * [BYOC](#BYOC)
 * [SIP customers](#sip-customers)
 
@@ -215,7 +215,10 @@
 
 [top](#index)
 
-## Freshcaller
+## Stripe and Twilio
+
+* `<Pay>` allows PCI compliant transactions
+* [inboxhealth](https://inboxhealth.com) uses these together to assist with healthcare payments
 
 [top](#index)
 
