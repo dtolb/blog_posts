@@ -185,6 +185,13 @@
 
 ## answering machine detection
 
+![answer](pics/answer.jpg)
+
+* Automated calling problem
+  * Only 24% of un-id'd calls are answers
+* Customers are not answering calls, even if they have value
+*
+
 [top](#index)
 
 ## Freshcaller
