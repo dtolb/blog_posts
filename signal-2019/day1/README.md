@@ -190,7 +190,24 @@
 * Automated calling problem
   * Only 24% of un-id'd calls are answers
 * Customers are not answering calls, even if they have value
-*
+* When calls are answered, how do you make that XP better?
+* AMD will will inform your application whether a human, machine, or fax answered the call.
+* Three primary segments
+  1. Alerts and notifications
+  2. Outbound IVR (product survey)
+  3. Outbound sales (insurance)
+* Twilio AMD is now in v3
+* Learned that AMD is a critical tool for many calling use-cases
+* First gen didn't meet the bar. Unreliable & few controls
+* Wasn't really understood when it was black boxed... customers wanted to learn how it works and what works.
+* Previously not a good way to view AMD performance
+* AMD now has a few new parameters:
+  * Threshold
+  * Speech end threshold
+* AMD today is that no action can be done during detection
+* "Background" AMD... outbound call put into conference, while AMD agent is processing, the other participant that's in the conference is playing twiml.
+  * If human, conference an agent in, they can hear the twiml and can seemlessly pickup
+  * If machine, interrupt the audio and play from there.
 
 [top](#index)
 
