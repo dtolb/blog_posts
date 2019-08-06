@@ -18,4 +18,4 @@
 
 * Focusing on Customer Engagement (go to where your customers are)
 * Pushing Omni-channel interactions
-
+* Feels a bit more "sponsor-y" → Talks with sponsors spending more time demoing their product
