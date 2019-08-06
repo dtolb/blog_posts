@@ -172,6 +172,14 @@
 
 ## Calling all APIs
 
+![Calling](pics/calling-all-apis.jpg)
+
+* API market on track to be 2.5 trillion
+* building a ride-sharing app with Stripe, Maps, Twilio, etc...
+  * Rapid-API combines all the APIs as a singular endpoint
+* API Marketplace
+  * Single API key, single dashboard, etc...
+
 [top](#index)
 
 ## answering machine detection
