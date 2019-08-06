@@ -12,8 +12,10 @@
 * [BYOC](day1#BYOC)
 * [SIP customers](day1#sip-customers)
 
-
-
 ## [Day 2](day2)
 * [Day 2 Keynote](day2#day-2-keynote)
+
+## Big themes
+
+* Focusing on Customer Engagement & Omni-channel (go to where your customers are)
 

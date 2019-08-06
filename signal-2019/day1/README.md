@@ -41,6 +41,8 @@
 * A lot from their customers in Health Care Space
 * HIPAA and BAAs
 
+[top](#index)
+
 ### Developer Experience
 
 ![CLI](pics/keynote-cli.jpg)
@@ -57,6 +59,13 @@
 
 [top](#index)
 
+### Customer Engagement
+
+* One engagement platform for all channels in critical
+  * Helps them move quickly
+* Drive more Interactions
+* Connect the Journey (journey is your brand)
+* Create lasting Relationships
 
 ## What can you do with Programmable Voice?
 
