@@ -3,8 +3,7 @@
 
 ## [Day 1](day1)
 * [Day 1 Keynote](day1#day-1-keynote)
-* [What can you do with Programmable Voice?](day1#What-can-you-do-with-programmable-Voice)
-* [Programmable Voice announcement](day1#programmable-voice-announcement)
+* [Media Streams](day1#media-streams)
 * [Twilio CLI](day1#twilio-cli)
 * [Twilio CLI Workshop](day1#twilio-cli-workshop)
 * [answering machine detection](day1#answering-machine-detection)
@@ -17,6 +16,6 @@
 
 ## Big themes
 
-* Focusing on Customer Engagement & Omni-channel (go to where your customers are)
+* Focusing on Customer Engagement (go to where your customers are)
 * Pushing Omni-channel interactions
 

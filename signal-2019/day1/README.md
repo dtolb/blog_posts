@@ -4,8 +4,7 @@
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
-* [What can you do with Programmable Voice?](#What-can-you-do-with-programmable-Voice)
-* [Programmable Voice announcement](#programmable-voice-announcement)
+* [Media Streams](#media-streams)
 * [Twilio CLI](#twilio-cli)
 * [Twilio CLI Workshop](#twilio-cli-workshop)
 * [answering machine detection](#answering-machine-detection)
@@ -128,12 +127,19 @@
 
 [top](#index)
 
+## Media Streams
 
-## What can you do with Programmable Voice?
+![media](pics/mediaStreams.jpg)
 
-[top](#index)
-
-## Programmable Voice announcement
+* Gives you real time access to the media that's happening on the call
+* Real time transcriptions
+* Voice biometrics & Sentiment Analysis
+  * works across languages
+* It's a media fork instead of a 1 way stream
+* Realtime versus Post-call analytics (proactive instead of reactive)
+* Up to 4 forks
+* [**Globo**](https://www.globo.com) talking about how Media Streams helps them
+* Detect background noise to help isolate where the issues are occurring
 
 [top](#index)
 
