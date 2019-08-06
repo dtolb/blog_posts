@@ -43,7 +43,15 @@
 
 ### Developer Experience
 
-*
+#### Releasing Twilio CLI
+
+* Everyone starts mostly the same way... IDE and phone
+* Then Search for docs, console, etc...
+* Want less complexity & be able to streamline
+* New way to create and manage twilio applications
+* Bundle functionality
+  * Private plugins
+* Integrated webserver within the CLI (🔑 ? )
 
 [top](#index)
 
