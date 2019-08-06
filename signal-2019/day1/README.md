@@ -103,13 +103,23 @@
 * Apple Business Chat, Whatsapp, Facebook Messenger
 * RCS - Biggest upgrade to SMS in 40 years of messaging
 
-### Messaging
+### Messaging - Twilio Conversations
+
+![conversations](pics/keynote-conversations.jpg)
 
 * Conversational messaging isn't _quite_ happening yet
 * Customers are no longer on hold... lowers resolution times
 * When a conversational interface exists 70-80% have a much better perception of the brand
 * Morgan Stanley has added conversations to great success.
 * Mentioned Group messaging
+* You have to support every channel of choice... Have to bring up each channel:
+  * SMS, Whatsapp, Chat
+  * Group Messaging
+  * Cross-channel orchestration
+  * Participant management
+  * Message logging & history
+* Maintain everything and message state in the API
+
 
 ## What can you do with Programmable Voice?
 
