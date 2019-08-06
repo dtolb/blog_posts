@@ -82,6 +82,13 @@
   * Support driver and rider, specific contact center
   * The customizable interface with a single tool great for agent efficiency
   * Saving 1 second over 1 million interactions
+* Media stream API
+  * Real time media access to the call
+  * Real time transcriptions
+  * Conversation analytics
+* New verb `<Start>`
+  * `<stream>` where to send media via WSS or SIP
+
 
 ## What can you do with Programmable Voice?
 
