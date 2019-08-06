@@ -141,6 +141,13 @@
 * [**Globo**](https://www.globo.com) talking about how Media Streams helps them
 * Detect background noise to help isolate where the issues are occurring
 
+### Connectors
+
+* Plug and play and get the results back
+* [Gridspace](https://www.gridspace.com) - Media streams & connectors
+  * What and how things are said in realtime... Anyone working with voice can use Gridspace today
+  * Build some query language to match semantic meanings
+
 [top](#index)
 
 ## Twilio CLI
