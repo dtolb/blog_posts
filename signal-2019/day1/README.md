@@ -1,6 +1,6 @@
 # Signal 2019 Day 1
 
-![signal pic](pics/keynote.JPG)
+![signal pic](pics/keynote.jpg)
 
 ## Index
 * [Day 1 Keynote](#day-1-keynote)
