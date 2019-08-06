@@ -124,6 +124,7 @@
   * Participant management
   * Message logging & history
 * Maintain everything and message state in the API
+* No backend required, messages and media flow between the two auto-magically
 
 [top](#index)
 
