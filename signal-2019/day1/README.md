@@ -68,6 +68,8 @@
 * Connect the Journey (journey is your brand)
 * Create lasting Relationships
 
+[top](#index)
+
 ## SendGrid
 
 * **Email validation API** Uses machine learning to determine if the email is valid before sending
@@ -89,6 +91,9 @@
   * Conversation analytics
 * New verb `<Start>`
   * `<stream>` where to send media via WSS or SIP
+
+[top](#index)
+
 
 ### What's Next - Era of Conversations
 
@@ -119,6 +124,8 @@
   * Participant management
   * Message logging & history
 * Maintain everything and message state in the API
+
+[top](#index)
 
 
 ## What can you do with Programmable Voice?
