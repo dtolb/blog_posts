@@ -15,6 +15,21 @@
 
 ## Day 1 Keynote
 
+* 32.5k concurrent/second
+* 13k messages/second
+* 3 Billion email addresses (half of all email addresses)
+* Run superclass into the enterprise and work with companies specifically for internal education
+
+### How netflix uses Twilio
+
+![pics](pics/netflix.jpg)
+
+* Use Twilio for SMS
+* Twilio for augmenting toll-free number capabilities globally (190 countries)
+* Built a "message builder" service to be omnichannel and agnostic of channel.
+* Password reset over sms
+* Text message to mobile phone for low friction TV sign up
+
 [top](#index)
 
 
