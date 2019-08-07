@@ -255,6 +255,9 @@
 * $0.004/min flat rate
 * Will allow splitting between countries and specialized NPANXX
 * "Registered Numbers" will allow per number features
+* Who's interested
+  * Contact Centers
+  * "not so much resistance to use super network, not ready to move yet"
 
 [top](#index)
 
