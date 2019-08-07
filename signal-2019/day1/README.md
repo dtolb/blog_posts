@@ -212,7 +212,6 @@
   * Roadmap driven by customer feedback
   * Mediastreams beta is similar in vain to AMD
 
-
 [top](#index)
 
 ## Stripe and Twilio
@@ -225,6 +224,32 @@
 [top](#index)
 
 ## BYOC
+
+![BYOC](pics/BYOC.jpg)
+
+* Why BYOC
+  * Not always ready to change PSTN provider
+  * Wanted twilio API and their super network
+* Why Not switch?
+  * Porting numbers can be risky
+  * Longstanding relationships with Tier-1 Carriers
+  * Infrastructure investments
+  * Different carriers throughout the world
+  * not ready for the cloud
+
+![spicy](pics/BYOC-spicy.jpg)
+
+* BYOC models
+  1. Connection on prem SBC
+  2. Direct connection to BYOC provider
+
+![type1](pics/BYOC-type1.jpg)
+
+![type2](pics/BYOC-type2.jpg)
+
+* Dial now has `<dial byoc=BYXXXX>{TN}</dial>`
+* Console will be adjusted to update
+* All of the SIP products will be under the same "product" group
 
 [top](#index)
 
