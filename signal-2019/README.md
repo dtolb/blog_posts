@@ -9,7 +9,6 @@
 * [answering machine detection](day1#answering-machine-detection)
 * [Stripe and Twilio](day1#stripe-and-twilio)
 * [BYOC](day1#BYOC)
-* [SIP customers](day1#sip-customers)
 
 ## [Day 2](day2)
 * [Day 2 Keynote](day2#day-2-keynote)

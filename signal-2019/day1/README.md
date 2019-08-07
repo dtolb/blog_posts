@@ -261,6 +261,3 @@
 
 [top](#index)
 
-## SIP Customers
-
-[top](#index)
