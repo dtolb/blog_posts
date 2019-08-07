@@ -12,9 +12,6 @@
 
 ## [Day 2](day2)
 * [Day 2 Keynote](day2#day-2-keynote)
-* [SMS compliance](day2#sms-compliance)
-* [Privacy in the US](day2#privacy-in-the-US)
-* [Synchronization API](day2#synchronization-api)
 * [Presidio](day2#presidio)
 * [Texting First](day2#texting-first)
 * [verified calls](day2#verified calls)
