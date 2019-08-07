@@ -76,6 +76,30 @@
 
 ## Presidio
 
+![who they are](pics/Presidio.jpg)
+
+* Why Cloud?
+  * They want to put out new features
+  * Competing with larger digital companies
+* Why Flex?
+  * Highest level of programmability and customization in the industry
+  * Talk to their customers about twilio flex
+  * $5.7B USD spent on on-prem PBX
+* Migration Challenges
+  * Don't want contact center isolated
+  * Still need e911
+  * Agent retraining cost
+* Fix
+  * Used a phased migration
+  * CC Isolation (use programmable SIP)
+    * Probably can combine network bridge (BYOC) with Flex
+* Can you integrate flex into a PBX
+  * Flex has their API
+  * On-prem PBX has JTAPI & TAPI SDK
+  * Teams & Skype has elementary SDK
+* Leveraging task router
+* Overall impressive integration with everything. But can imagine it's a bit fragile.
+
 [top](#index)
 
 ## Texting First
