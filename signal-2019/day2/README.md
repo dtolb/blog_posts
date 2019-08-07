@@ -4,9 +4,6 @@
 
 ## Index
 * [Day 2 Keynote](#day-2-keynote)
-* [SMS compliance](#sms-compliance)
-* [Privacy in the US](#privacy-in-the-US)
-* [Synchronization API](#synchronization-api)
 * [Presidio](#presidio)
 * [Texting First](#texting-first)
 * [verified calls](#verified-calls)
@@ -74,18 +71,6 @@
 * Aruba (HP company) runs wifi networks for stadiums, hospitals, etc...
 * Running IoT workshops with Azure & IoT hackpacks
 * Narrowband IoT scaling out with commercial partner [Sensoneo](https://sensoneo.com)
-
-[top](#index)
-
-## SMS compliance
-
-[top](#index)
-
-## Privacy in the US
-
-[top](#index)
-
-## Synchronization API
 
 [top](#index)
 
