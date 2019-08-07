@@ -237,7 +237,7 @@
   * Different carriers throughout the world
   * not ready for the cloud
 
-![spicy](pics/BYOC-spicy.jpg)
+![spicy](pics/spicy.jpg)
 
 * BYOC models
   1. Connection on prem SBC
