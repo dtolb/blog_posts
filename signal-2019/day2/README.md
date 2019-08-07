@@ -14,6 +14,16 @@
 
 ## Day 2 Keynote
 
+### Twilio.org
+
+* 3.5k organizations using twilio for non-profits
+  * 2018: 25million people assisted via those non-profits
+  * 2019: 100million people assisted via those non-profits
+* Launching _Crisis Response and prevention initiative_
+* Launching _Crisis Response Technology Network_
+  * Network to share technological challenges & solutions
+* $5million funding to crisis response organizations
+
 [top](#index)
 
 ## SMS compliance
