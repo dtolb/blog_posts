@@ -104,6 +104,19 @@
 
 ## Texting First
 
+![txt first](pics/txtfirst.jpg)
+
+* Phone, email, chat all have issues
+  * Phone is time consuming and people don't answer calls
+  * Email is relatively slow and SPAM issues
+  * Chat is great for one-and-done but not continuous support
+* [Precision Services](https://www.precisiontv.com) manages their support queue via Twilio
+  * Ran into labor cost issues
+  * Discovered that texting the clients got better response than outbound call scheduling
+  * Use the Twilio TN lookup API
+* Respond to all MMS and other means of communications
+* Offer SMS routes to customers in a Queue for over 1 minute
+
 [top](#index)
 
 ## verified calls
