@@ -75,7 +75,6 @@
 * Running IoT workshops with Azure & IoT hackpacks
 * Narrowband IoT scaling out with commercial partner [Sensoneo](https://sensoneo.com)
 
-
 [top](#index)
 
 ## SMS compliance
