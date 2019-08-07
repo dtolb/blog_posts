@@ -9,7 +9,7 @@
 * [Synchronization API](#synchronization-api)
 * [Presidio](#presidio)
 * [Texting First](#texting-first)
-* [verified calls](#verified calls)
+* [verified calls](#verified-calls)
 * [Twilio Interconnect](#twilio-interconnect)
 
 ## Day 2 Keynote
