@@ -69,6 +69,8 @@
 * Opening the "black box" of carrier connectivity with Super SIM
 * Aruba (HP company) runs wifi networks for stadiums, hospitals, etc...
 * Running IoT workshops with Azure & IoT hackpacks
+* Narrowband IoT scaling out with commercial partner [Sensoneo](https://sensoneo.com)
+
 
 [top](#index)
 
