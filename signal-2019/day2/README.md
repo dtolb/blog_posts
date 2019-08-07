@@ -57,6 +57,8 @@
 * displays message and logo
 * Create business profile = vetted and profiled by twilio
 * Verifies phone number is owned by company, that there is an API call driving it, and company is verified in order to display the logo.
+* Give reason for placing call
+* When call rings the reasoning and logo and etc... are displayed on device
 
 
 [top](#index)
