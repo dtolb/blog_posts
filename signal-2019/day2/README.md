@@ -25,6 +25,8 @@
 * $5million funding to crisis response organizations
 * 1% of company equity put towards twilio.org
 
+[top](#index)
+
 ### Customer Engagement Platform
 
 ![platform](pics/keynote-platform.jpg)
@@ -35,6 +37,12 @@
   * Identity, Intelligence, Interactions
 * App Platform = Marketing & Flex
 * Runtime = Tools to make it possible
+
+[top](#index)
+
+### Trusted Communications
+
+*
 
 [top](#index)
 
