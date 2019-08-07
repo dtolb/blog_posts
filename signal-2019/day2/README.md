@@ -59,7 +59,16 @@
 * Verifies phone number is owned by company, that there is an API call driving it, and company is verified in order to display the logo.
 * Give reason for placing call
 * When call rings the reasoning and logo and etc... are displayed on device
+* Parter with YouMail, hiya
+* Works through an app
 
+### IoT
+
+* TL;DW Scooters are taking over
+* Rently getting a shoutout
+* Opening the "black box" of carrier connectivity with Super SIM
+* Aruba (HP company) runs wifi networks for stadiums, hospitals, etc...
+* Running IoT workshops with Azure & IoT hackpacks
 
 [top](#index)
 
