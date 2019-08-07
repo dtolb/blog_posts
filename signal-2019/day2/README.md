@@ -23,6 +23,18 @@
 * Launching _Crisis Response Technology Network_
   * Network to share technological challenges & solutions
 * $5million funding to crisis response organizations
+* 1% of company equity put towards twilio.org
+
+### Customer Engagement Platform
+
+![platform](pics/keynote-platform.jpg)
+
+* Super network = Phone numbers, short codes, SIP, etc...
+* Channel APIs = SMS, chat, email, leverage the super network
+* Service layer = They write the code for your
+  * Identity, Intelligence, Interactions
+* App Platform = Marketing & Flex
+* Runtime = Tools to make it possible
 
 [top](#index)
 
