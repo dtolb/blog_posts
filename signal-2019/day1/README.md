@@ -250,6 +250,9 @@
 * Dial now has `<dial byoc=BYXXXX>{TN}</dial>`
 * Console will be adjusted to update
 * All of the SIP products will be under the same "product" group
+* Can failover to supernetwork
+* Pilot starts in Sept 2019
+* $0.004/min flat rate
 
 [top](#index)
 
