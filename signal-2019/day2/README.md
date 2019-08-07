@@ -40,9 +40,24 @@
 
 [top](#index)
 
-### Trusted Communications
+### Trusted Communications - Verified by Twilio
 
-*
+![trusted](pics/keynote-trusted.jpg)
+
+#### Overview
+
+* Generally speaking, most people don't answer calls
+* 75% of calls are unanswered when caller is unknown
+* 48 billion robo-calls 🤖 in the USA
+* $5 Average cost of outbound call from call-center
+* Carriers working on protocols to verify calls
+
+#### How it works
+
+* displays message and logo
+* Create business profile = vetted and profiled by twilio
+* Verifies phone number is owned by company, that there is an API call driving it, and company is verified in order to display the logo.
+
 
 [top](#index)
 
