@@ -253,6 +253,8 @@
 * Can failover to supernetwork
 * Pilot starts in Sept 2019
 * $0.004/min flat rate
+* Will allow splitting between countries and specialized NPANXX
+* "Registered Numbers" will allow per number features
 
 [top](#index)
 
