@@ -61,6 +61,10 @@
 * When call rings the reasoning and logo and etc... are displayed on device
 * Parter with YouMail, hiya
 * Works through an app
+* Best guess:  it works via an installed app like robo killer or something else… where you have your native mobile number set to forward to a proxy number that then looks up who is calling. Then forwards the call back to your cell device.
+  * Needs 'diversion' information from the network to successfully operate
+  * Also forwards **all** incoming calls through a 3rd party
+
 
 ### IoT
 
