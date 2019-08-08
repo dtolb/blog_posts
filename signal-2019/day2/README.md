@@ -121,8 +121,11 @@
 
 ## verified calls
 
+* How it works
+  1. Customer provides business and brand info to twilio
+  2. twilio validates business profile
+  3. Customer associates branding set with phone numbers
+* YouMail, CallApp, Hiya, RoboKiller
+
 [top](#index)
 
-## Twilio Interconnect
-
-[top](#index)

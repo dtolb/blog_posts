@@ -15,7 +15,6 @@
 * [Presidio](day2#presidio)
 * [Texting First](day2#texting-first)
 * [verified calls](day2#verified calls)
-* [Twilio Interconnect](day2#twilio-interconnect)
 
 ## Big themes
 
